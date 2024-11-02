@@ -1,0 +1,48 @@
+name: Build & Deploy
+on:
+  push:
+    branches:
+      - main
+    tags:
+      - v*
+  schedule:
+    # 每天 5:30 UTC 触发工作流程
+    - cron:  '30 5 */2 * *'
+
+jobs:
+  build-deploy:
+    env: 
+      TOKEN: ${{ secrets.TOKEN }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          registry-url: 'https://registry.npmjs.org'
+    
+      - run: npm install
+      - run: npm start
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          user_name: github-actions[bot]
+          user_email: github-actions[bot]@users.noreply.github.com
+
+      - name: Modify README.md
+        uses: jaywcjlove/github-action-modify-file-content@main
+        with:
+          path: README.md
+          body: "{{date:YYYY-MM-DD HH:mm:ss}}"
+          branch: main
+
+      - name: Commit and push changes
+        run: |
+          git add data/
+          git commit -m 'ci: Update npm-stat data'
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

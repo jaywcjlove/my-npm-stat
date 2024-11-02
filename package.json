@@ -1,5 +1,6 @@
 {
   "name": "my-npm-stat",
+  "private": true,
   "version": "1.0.0",
   "description": "",
   "scripts": {
@@ -9,7 +10,11 @@
   },
   "keywords": [],
   "author": "jaywcjlove",
-  "license": "ISC",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaywcjlove/my-npm-stat.git"
+  },
   "dependencies": {
     "@wcj/ejs-cli": "^1.6.0",
     "colors-cli": "^1.0.33",

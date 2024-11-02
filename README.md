@@ -3,7 +3,7 @@ my-npm-stat
 
 Download statistics for my published [npm](https://www.npmjs.com/~wcjiang) packages.
 
-Over the past year, my packages have collectively been downloaded [<!--GAMFC-->164,441,647<!--GAMFC-END-->]() times.
+Update date: <!--GAMFC-->2024-09-18 05:35:04<!--GAMFC-END-->
 
 ## Recommendation
 
