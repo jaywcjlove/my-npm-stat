@@ -1,9 +1,14 @@
 my-npm-stat
 ===
 
-## API
+Download statistics for my published [npm](https://www.npmjs.com/~wcjiang) packages.
 
-```
-https://api.npmjs.org/downloads/range/last-month/@uiw/react-codemirror
-https://api.npmjs.org/downloads/range/last-year/@uiw/react-codemirror
-```
+Over the past year, my packages have collectively been downloaded [<!--GAMFC-->164,441,647<!--GAMFC-END-->]() times.
+
+## Recommendation
+
+Check out my other repository: [Kenny Wang is Releasing & Contributing](https://github.com/jaywcjlove/releases/)
+
+## License
+
+MIT © [Kenny Wang](https://github.com/jaywcjlove)
