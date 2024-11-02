@@ -1,0 +1,112 @@
+body {
+  --color-fg-default: #c9d1d9;
+  --color-fg-muted: #8b949e;
+  --color-fg-subtle: #484f58;
+  --color-accent-fg: #58a6ff;
+  --color-accent-emphasis: #1f6feb;
+  --color-link-hover: #58a6ff;
+  --color-tab-fg: #494949;
+  --color-border: #e2e2e2;
+  --color-neutral-muted: rgba(110,118,129,0.4);
+  background: #121212;
+  color: #fff;
+  font-family: DM Sans, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Helvetica Neue, Arial, Noto Sans, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji;
+}
+
+*, :after, :before {
+  box-sizing: border-box;
+}
+
+a {
+  color: inherit;
+  color: var(--color-accent-fg);
+  text-decoration: inherit;
+  font-family: DM Mono, ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, Liberation Mono, Courier New, monospace;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+a.github-corner:hover .octo-arm { animation: octocat-wave 560ms infinite linear; }
+a.github-corner svg { fill: #f1f1f1; color: #000; position: absolute; top: 0; border: 0; right: 0; z-index: 99; width: 40px; height: 40px; }
+a.github-corner { position: fixed; z-index: 9999; top: 0; right: 0; }
+
+main {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+header {
+  padding-top: 3rem;
+}
+header article {
+  font-size: 5rem;
+  text-align: center;
+  clear: both;
+  padding-bottom: 4rem;
+  padding-top: 4rem;
+  font-weight: bold;
+}
+header sub {
+  position: absolute;
+  font-size: 1rem;
+  color: var(--color-accent-emphasis);
+}
+header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 0;
+}
+header img {
+  height: 6rem;
+  width: 6rem;
+  border-radius: 1.3rem;
+  margin-right: 1.5rem;
+  margin-bottom: 1.5rem;
+  float: left;
+  background-color: rgba(175,184,193,0.12);
+}
+header::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+table.packages tr th {
+  padding: 0.23rem 0.32rem;
+  text-align: left;
+}
+table.packages th {
+  background-color: rgba(175,184,193,0.12);
+}
+table.packages {
+  width: 100%;
+  border-spacing: 5px;
+  background-color: rgb(175 184 193 / 15%);
+}
+table.packages tbody tr:hover {
+  background-color: rgba(175,184,193,0.2);
+}
+table.packages tbody tr td {
+  padding: 0.23rem 0.32rem;
+}
+table.packages a {
+  color: var(--color-accent-fg);
+}
+
+.chart {
+  background-color: #282828;
+  width: 100%;
+}
+
+footer {
+  padding-bottom: 5rem;
+  padding-top: 2rem;
+}
+
+footer, footer article {
+  color: var(--color-fg-muted);
+}
+
+footer article {
+  font-size: small;
+}

@@ -134,7 +134,7 @@ async function main() {
       const stats = calculateStats(allDownloads);
       stats.topPackages = Object.entries(packageDownloads)
         .sort(([, a], [, b]) => b - a)
-        .slice(0, 20)
+        .slice(0, 50)
         .map(([name, downloads]) => ({ name, downloads }));
 
       fs.writeFileSync(statsPath, JSON.stringify(stats, null, 2));

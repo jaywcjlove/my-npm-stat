@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "node main.mjs"
+    "build": "ejsc \"templates/**/*\"",
+    "dev": "ejsc \"templates/**/*\" --watch",
+    "start": "node main.mjs && npm run build"
   },
   "keywords": [],
   "author": "jaywcjlove",
@@ -11,6 +13,7 @@
   "dependencies": {
     "@wcj/ejs-cli": "^1.6.0",
     "colors-cli": "^1.0.33",
-    "date-fns": "^4.1.0"
+    "date-fns": "^4.1.0",
+    "fs-extra": "^11.2.0"
   }
 }
