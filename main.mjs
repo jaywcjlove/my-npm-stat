@@ -1,5 +1,5 @@
 import https from "https";
-import fs from "fs";
+import fs from "fs-extra";
 import path from "path";
 import color from "colors-cli/safe";
 import { format, startOfWeek, subYears } from "date-fns";
@@ -74,6 +74,7 @@ function calculateStats(allDownloads) {
   const dailyDownloads = {};
   const weeklyDownloads = {};
   const monthlyDownloads = {};
+  const yearlyDownloads = {};
   let totalDownloads = 0;
 
   const oneYearAgo = subYears(new Date(), 1);
@@ -89,6 +90,7 @@ function calculateStats(allDownloads) {
       dailyDownloads[day] = (dailyDownloads[day] || 0) + download.downloads;
       weeklyDownloads[week] = (weeklyDownloads[week] || 0) + download.downloads;
       monthlyDownloads[month] = (monthlyDownloads[month] || 0) + download.downloads;
+      yearlyDownloads[year] = (yearlyDownloads[year] || 0) + download.downloads;
       totalDownloads += download.downloads;
     }
   });
@@ -97,7 +99,7 @@ function calculateStats(allDownloads) {
     dailyDownloads,
     weeklyDownloads,
     monthlyDownloads,
-    yearlyDownloads: totalDownloads, // 过去一年时间下载总和
+    yearlyDownloads,
     totalDownloads
   };
 }
@@ -137,6 +139,19 @@ async function main() {
         .sort(([, a], [, b]) => b - a)
         .slice(0, 100)
         .map(([name, downloads]) => ({ name, downloads }));
+
+      /// 合并旧的年下载统计数据 -------- Start --------
+      const oldStats = fs.readJsonSync(statsPath, { throws: false }) || {};
+      Object.keys(oldStats.yearlyDownloads).forEach((year) => {
+        const valueOld = oldStats.yearlyDownloads[year];
+        const value = stats.yearlyDownloads[year] || 0;
+        if (value > valueOld) {
+          stats.yearlyDownloads[year] = value;
+        } else {
+          stats.yearlyDownloads[year] = valueOld;
+        }
+      });
+      /// 合并旧的年下载统计数据 -------- End --------
 
       fs.writeFileSync(statsPath, JSON.stringify(stats, null, 2));
       console.log(color.green(`所有包的统计数据已保存到 ${statsPath}`));
