@@ -125,7 +125,7 @@ table.packages tr td, table.packages tr th {
 table.packages a {
   color: var(--color-accent-fg);
 }
-table.packages tbody tr td:first-child {
+table.packages tbody tr:not(:last-child) td:first-child {
   text-align: right;
   color: var(--color-fg-muted);
 }
