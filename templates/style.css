@@ -125,14 +125,12 @@ table.packages a {
 }
 
 footer {
+  font-size: small;
   padding-bottom: 5rem;
   padding-top: 2rem;
+  line-height: 1.5;
 }
 
 footer, footer article {
   color: var(--color-fg-muted);
-}
-
-footer article {
-  font-size: small;
 }
