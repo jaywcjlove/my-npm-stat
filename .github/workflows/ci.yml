@@ -11,8 +11,6 @@ on:
 
 jobs:
   build-deploy:
-    env: 
-      TOKEN: ${{ secrets.TOKEN }}
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -47,7 +45,8 @@ jobs:
       - name: Commit and push changes
         run: |
           git add data/
-          git commit -m 'ci: Update npm-stat data'
+          git diff-index --quiet HEAD || git commit -m 'ci: Update npm-stat data'
+          git pull --rebase
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
