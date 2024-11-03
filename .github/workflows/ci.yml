@@ -6,7 +6,7 @@ on:
     tags:
       - v*
   schedule:
-    # 每天 5:30 UTC 触发工作流程
+    # 每2天 5:30 UTC 触发工作流程
     - cron:  '30 5 */2 * *'
 
 jobs:

@@ -36,16 +36,41 @@ main {
   margin: 0 auto;
 }
 
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
+
 header {
-  padding-top: 3rem;
+  padding-top: 6rem;
 }
 header article {
   font-size: 5rem;
   text-align: center;
   clear: both;
   padding-bottom: 4rem;
-  padding-top: 4rem;
+  padding-top: 6rem;
   font-weight: bold;
+}
+header article a {
+  color: transparent;
+  background-image: linear-gradient(-225deg, #331d82 0%, #44107a 29%, #ff1361 67%, #fff800 100%);
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+}
+header article a:hover {
+  animation: none;
+  background-image: linear-gradient(-225deg, #ff1361 0%, #44107a 29%, #ff1361 67%, #fff800 100%);
+}
+header div {
+  max-width: 537px;
+  margin: 0 auto;
 }
 header sub {
   position: absolute;
@@ -53,8 +78,9 @@ header sub {
   color: var(--color-accent-emphasis);
 }
 header h1 {
-  font-size: 2.5rem;
+  font-size: 2.0rem;
   margin-bottom: 0;
+  line-height: 1;
 }
 header img {
   height: 6rem;
@@ -63,7 +89,7 @@ header img {
   margin-right: 1.5rem;
   margin-bottom: 1.5rem;
   float: left;
-  background-color: rgba(175,184,193,0.12);
+  background-color: rgb(175 184 193 / 21%);
 }
 header::after {
   content: "";

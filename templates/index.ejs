@@ -34,8 +34,10 @@
           <img src="https://github.com/jaywcjlove.png" alt="Kenny Wang">
         </a>
         <h1>Download Statistics for <a target="_blank" href="https://github.com/jaywcjlove/">Kenny Wang</a>'s <a href="https://www.npmjs.com/~wcjiang">npm</a> Packages</h1>
-        <article><%= downloads.totalDownloads.toLocaleString() %><sub>pre year</sub></article>
       </div>
+      <article>
+        <a href=""><%= downloads.totalDownloads.toLocaleString() %></a><sub>pre year</sub>
+      </article>
     </header>
     <h2>Downloads per day</h2>
     <div id="preDay" class="chart"></div>
@@ -64,7 +66,7 @@
       </tbody>
     </table>
     <footer>
-      <div class="time">Last cache created on <time datetime="<%=NOW_DATE%>"><%=NOW_DATE.toLocaleDateString()%></time></div>
+      <div class="time">Last cache created on <time datetime="<%=NOW_DATE%>"><%=NOW_DATE%></time></div>
       <article> Create by <a href="https://github.com/jaywcjlove" target="_blank">小弟调调™</a></article>
     </footer>
   </main>
