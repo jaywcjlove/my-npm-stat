@@ -11605,7 +11605,7 @@
       "GB",
       "GB2260",
       "中国",
-      "中��人民共和国",
+      "中华人民共和国",
       "行政区划",
       "省市",
       "省市区",
@@ -11700,6 +11700,59 @@
     ]
   },
   {
+    "name": "@province-city-china/data",
+    "scope": "province-city-china",
+    "version": "8.5.8",
+    "description": "An util to query china province, city and district data. 中华人民共和国国家标准 GB/T 2260 行政区划代码。",
+    "keywords": [
+      "province",
+      "china",
+      "cn",
+      "city",
+      "GB",
+      "GB2260",
+      "中国",
+      "中华人民共和国",
+      "行政区划",
+      "省市",
+      "省市区",
+      "联动",
+      "省份",
+      "城市",
+      "县市",
+      "区县",
+      "乡镇",
+      "街道",
+      "村委会",
+      "居委会",
+      "省级",
+      "地级",
+      "县级",
+      "乡级",
+      "村级"
+    ],
+    "date": "2024-09-05T07:58:34.438Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40province-city-china%2Fdata",
+      "homepage": "https://github.com/uiwjs/province-city-china#readme",
+      "repository": "https://github.com/uiwjs/province-city-china"
+    },
+    "author": {
+      "name": "Kenny Wong",
+      "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
     "name": "@province-city-china/town",
     "scope": "province-city-china",
     "version": "8.5.8",
@@ -11737,59 +11790,6 @@
       "homepage": "https://github.com/uiwjs/province-city-china#readme",
       "repository": "https://github.com/uiwjs/province-city-china",
       "bugs": "https://github.com/uiwjs/province-city-china/issues"
-    },
-    "author": {
-      "name": "Kenny Wong",
-      "email": "wowohoo@qq.com"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "@province-city-china/data",
-    "scope": "province-city-china",
-    "version": "8.5.8",
-    "description": "An util to query china province, city and district data. 中华人民共和国国家标准 GB/T 2260 行政区划代码。",
-    "keywords": [
-      "province",
-      "china",
-      "cn",
-      "city",
-      "GB",
-      "GB2260",
-      "中国",
-      "中华人民共和国",
-      "行政区划",
-      "省市",
-      "省市区",
-      "联动",
-      "省份",
-      "城市",
-      "县市",
-      "区县",
-      "乡镇",
-      "街道",
-      "村委会",
-      "居委会",
-      "省级",
-      "地级",
-      "县级",
-      "乡级",
-      "村级"
-    ],
-    "date": "2024-09-05T07:58:34.438Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40province-city-china%2Fdata",
-      "homepage": "https://github.com/uiwjs/province-city-china#readme",
-      "repository": "https://github.com/uiwjs/province-city-china"
     },
     "author": {
       "name": "Kenny Wong",
@@ -15498,7 +15498,7 @@
     "name": "@uiw/react-native-amap-geolocation",
     "scope": "uiw",
     "version": "2.0.0-alpha.3",
-    "description": "React Native 高德地图定位原生，支��� Android/iOS",
+    "description": "React Native 高德地图定位原生，支持 Android/iOS",
     "keywords": [
       "react-native",
       "amap",
