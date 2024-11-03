@@ -146,7 +146,7 @@ async function main() {
       const badgeData = {
         schemaVersion: 1,
         label: "NPM",
-        message: `${stats.totalDownloads} Downloads`,
+        message: `${stats.totalDownloads.toLocaleString()} Downloads`,
         color: "orange",
         namedLogo: "npm"
       };
