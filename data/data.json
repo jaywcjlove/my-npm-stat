@@ -4308,7 +4308,7 @@
       "react",
       "bdmap",
       "types",
-      "��度",
+      "百度",
       "地图",
       "百度地图"
     ],
@@ -4798,7 +4798,7 @@
     "name": "@uiw/react-amap-types",
     "scope": "uiw",
     "version": "7.1.3",
-    "description": "基于 React 封装的高德地图组件。AMap Component Based On React.",
+    "description": "基�� React 封装的高德地图组件。AMap Component Based On React.",
     "keywords": [
       "react-amap",
       "amap",
@@ -5415,39 +5415,6 @@
     ]
   },
   {
-    "name": "@wcj/github-rank",
-    "scope": "wcj",
-    "version": "24.11.2",
-    "description": "Github Users Ranking for China.",
-    "keywords": [
-      "github",
-      "github-ranking",
-      "rank",
-      "ranking"
-    ],
-    "date": "2024-11-02T06:01:06.631Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40wcj%2Fgithub-rank",
-      "homepage": "http://jaywcjlove.github.io/github-rank/",
-      "repository": "https://github.com/jaywcjlove/github-rank",
-      "bugs": "https://github.com/jaywcjlove/github-rank/issues"
-    },
-    "author": {
-      "name": "Kenny Wong",
-      "email": "wowohoo@qq.com"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
     "name": "@uiw/bootstrap-icons",
     "scope": "uiw",
     "version": "1.4.1",
@@ -5688,6 +5655,39 @@
         "username": "zhangyuang",
         "email": "569105585@qq.com"
       },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "@wcj/github-rank",
+    "scope": "wcj",
+    "version": "24.11.3",
+    "description": "Github Users Ranking for China.",
+    "keywords": [
+      "github",
+      "github-ranking",
+      "rank",
+      "ranking"
+    ],
+    "date": "2024-11-03T06:00:11.475Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40wcj%2Fgithub-rank",
+      "homepage": "http://jaywcjlove.github.io/github-rank/",
+      "repository": "https://github.com/jaywcjlove/github-rank",
+      "bugs": "https://github.com/jaywcjlove/github-rank/issues"
+    },
+    "author": {
+      "name": "Kenny Wong",
+      "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
       {
         "username": "wcjiang",
         "email": "398188662@qq.com"
@@ -6394,7 +6394,7 @@
     "name": "@uiw/react-amap-hawk-eye-control",
     "scope": "uiw",
     "version": "7.1.3",
-    "description": "鹰眼控件，用于显示缩略地图，显示于地图右下角，可以随主图的视口变化而变化，也可以配置成固定位置实现类��于南海附图的效果。",
+    "description": "鹰眼控件，用于显示缩略地图，显示于地图右下角，可以随主图的视口变化而变化，也可以配置成固定位置实现类似于南海附图的效果。",
     "keywords": [
       "react-amap",
       "api-loader",
@@ -8159,49 +8159,6 @@
     ]
   },
   {
-    "name": "@uiw/react-amap-ellipse",
-    "scope": "uiw",
-    "version": "7.1.3",
-    "description": "构造圆形对象，通过 EllipseOptions 指定多边形样式。",
-    "keywords": [
-      "react-amap",
-      "api-loader",
-      "amap",
-      "ellipse",
-      "map",
-      "react",
-      "bdmap",
-      "types",
-      "高德",
-      "地图",
-      "高德地图"
-    ],
-    "date": "2024-09-20T11:34:12.564Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40uiw%2Freact-amap-ellipse",
-      "homepage": "https://uiwjs.github.io/react-amap/#/ellipse",
-      "repository": "https://github.com/uiwjs/react-amap"
-    },
-    "author": {
-      "name": "Kenny Wong",
-      "email": "wowohoo@qq.com"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
     "name": "@uiw/react-amap-bezier-curve",
     "scope": "uiw",
     "version": "7.1.3",
@@ -8225,6 +8182,49 @@
       "homepage": "https://uiwjs.github.io/react-amap/#/beizer-curve",
       "repository": "https://github.com/uiwjs/react-amap",
       "bugs": "https://github.com/uiwjs/react-amap/issues"
+    },
+    "author": {
+      "name": "Kenny Wong",
+      "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "@uiw/react-amap-ellipse",
+    "scope": "uiw",
+    "version": "7.1.3",
+    "description": "构造圆形对象，通过 EllipseOptions 指定多边形样式。",
+    "keywords": [
+      "react-amap",
+      "api-loader",
+      "amap",
+      "ellipse",
+      "map",
+      "react",
+      "bdmap",
+      "types",
+      "高德",
+      "地图",
+      "高德地图"
+    ],
+    "date": "2024-09-20T11:34:12.564Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40uiw%2Freact-amap-ellipse",
+      "homepage": "https://uiwjs.github.io/react-amap/#/ellipse",
+      "repository": "https://github.com/uiwjs/react-amap"
     },
     "author": {
       "name": "Kenny Wong",
@@ -8293,7 +8293,7 @@
     "name": "@uiw/react-amap-geolocation",
     "scope": "uiw",
     "version": "7.1.3",
-    "description": "鹰眼控件，用于显示缩略地图，显示于地图右下角，可���随主图的视口变化而变化，也可以配置成固定位置实现类似于南海附图的效果。",
+    "description": "鹰眼控件，用于显示缩略地图，显示于地图右下角，可以随主图的视口变化而变化，也可以配置成固定位置实现类似于南海附图的效果。",
     "keywords": [
       "react-amap",
       "api-loader",
@@ -10972,32 +10972,6 @@
     ]
   },
   {
-    "name": "generated-badges",
-    "scope": "unscoped",
-    "version": "1.0.13",
-    "description": "Create a badge using GitHub Actions and GitHub Workflow CPU time (no 3rd parties servers)",
-    "date": "2024-05-12T06:02:45.768Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/generated-badges",
-      "homepage": "https://jaywcjlove.github.io/generated-badges/",
-      "repository": "https://github.com/jaywcjlove/generated-badges",
-      "bugs": "https://github.com/jaywcjlove/generated-badges/issues"
-    },
-    "author": {
-      "name": "jaywcjlove"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
     "name": "monaco-editor-nginx",
     "scope": "unscoped",
     "version": "2.0.2",
@@ -11094,6 +11068,32 @@
         "username": "uiwjs",
         "email": "kennyiseeyou@gmail.com"
       },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "generated-badges",
+    "scope": "unscoped",
+    "version": "1.0.13",
+    "description": "Create a badge using GitHub Actions and GitHub Workflow CPU time (no 3rd parties servers)",
+    "date": "2024-05-12T06:02:45.768Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/generated-badges",
+      "homepage": "https://jaywcjlove.github.io/generated-badges/",
+      "repository": "https://github.com/jaywcjlove/generated-badges",
+      "bugs": "https://github.com/jaywcjlove/generated-badges/issues"
+    },
+    "author": {
+      "name": "jaywcjlove"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
       {
         "username": "wcjiang",
         "email": "398188662@qq.com"
@@ -18631,10 +18631,10 @@
     ]
   },
   {
-    "name": "@icongo/br",
+    "name": "@icongo/ad",
     "scope": "icongo",
     "version": "1.2.0",
-    "description": "Browser Logos Icons",
+    "description": "Ant Design SVG Icons",
     "keywords": [
       "icongo",
       "boxicons",
@@ -18642,10 +18642,10 @@
       "icons",
       "icon"
     ],
-    "date": "2023-04-17T18:55:52.993Z",
+    "date": "2023-04-17T18:55:36.978Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/%40icongo%2Fbr",
-      "homepage": "http://icongo.github.io/#/icons/br",
+      "npm": "https://www.npmjs.com/package/%40icongo%2Fad",
+      "homepage": "http://icongo.github.io/#/icons/ad",
       "repository": "https://github.com/jaywcjlove/icongo",
       "bugs": "https://github.com/jaywcjlove/icongo/issues"
     },
@@ -18668,10 +18668,10 @@
     ]
   },
   {
-    "name": "@icongo/ad",
+    "name": "@icongo/br",
     "scope": "icongo",
     "version": "1.2.0",
-    "description": "Ant Design SVG Icons",
+    "description": "Browser Logos Icons",
     "keywords": [
       "icongo",
       "boxicons",
@@ -18679,10 +18679,10 @@
       "icons",
       "icon"
     ],
-    "date": "2023-04-17T18:55:36.978Z",
+    "date": "2023-04-17T18:55:52.993Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/%40icongo%2Fad",
-      "homepage": "http://icongo.github.io/#/icons/ad",
+      "npm": "https://www.npmjs.com/package/%40icongo%2Fbr",
+      "homepage": "http://icongo.github.io/#/icons/br",
       "repository": "https://github.com/jaywcjlove/icongo",
       "bugs": "https://github.com/jaywcjlove/icongo/issues"
     },
