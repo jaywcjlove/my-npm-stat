@@ -8,6 +8,7 @@ const username = 'wcjiang'; // 替换为你的 npm 用户名
 const dataPath = 'data/data.json';
 const packageDir = 'data/package';
 const statsPath = 'data/package-stats.json';
+const badgePath = 'data/badge.json';
 
 function getPackages(from = 0, allPackages = []) {
   return new Promise((resolve, reject) => {
@@ -139,6 +140,18 @@ async function main() {
 
       fs.writeFileSync(statsPath, JSON.stringify(stats, null, 2));
       console.log(color.green(`所有包的统计数据已保存到 ${statsPath}`));
+
+      // 生成 badge.json 文件
+      // https://img.shields.io/badges/endpoint-badge
+      const badgeData = {
+        schemaVersion: 1,
+        label: "NPM",
+        message: `${stats.totalDownloads} Downloads`,
+        color: "orange",
+        namedLogo: "npm"
+      };
+      fs.writeFileSync(badgePath, JSON.stringify(badgeData, null, 2));
+      console.log(color.green(`徽章数据已保存到 ${badgePath}`));
     } else {
       console.log(color.yellow(`未找到用户 "${username}" 的任何包。`));
     }
