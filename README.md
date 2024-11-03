@@ -12,7 +12,8 @@ Update date: <!--GAMFC-->2024-11-03 09:41:08<!--GAMFC-END-->
 
 ## Recommendation
 
-Check out my other repository: [Kenny Wang is Releasing & Contributing](https://github.com/jaywcjlove/releases/)
+- Check out my other repository: [Kenny Wang is Releasing & Contributing](https://github.com/jaywcjlove/releases/)
+- [Download statistics for sindresorhus published npm packages.](https://forksss.github.io/sindresorhus-npm-stat/)
 
 ## License
 
