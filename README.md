@@ -1,7 +1,7 @@
 my-npm-stat
 ===
 
-Download statistics for my published [npm](https://www.npmjs.com/~wcjiang) packages.
+NPM download statistics for [Kenny Wang](https://www.npmjs.com/~wcjiang)'s opens source projects for the past year. Updated Daily.
 
 https://github.com/user-attachments/assets/41cddae0-292f-470d-a4f9-00322e5d75c2
 
