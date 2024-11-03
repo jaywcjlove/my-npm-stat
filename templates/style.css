@@ -36,6 +36,10 @@ main {
   margin: 0 auto;
 }
 
+main h2 {
+  padding-top: 2rem;
+}
+
 @keyframes textclip {
   to {
     background-position: 200% center;
@@ -121,9 +125,12 @@ table.packages tr td, table.packages tr th {
 table.packages a {
   color: var(--color-accent-fg);
 }
+table.packages tbody tr td:first-child {
+  text-align: right;
+  color: var(--color-fg-muted);
+}
 table.packages tbody tr:last-child td {
   background: #ffffff0d;
-  border-radius: 2px;
 }
 
 .chart {
@@ -136,6 +143,7 @@ footer {
   padding-bottom: 5rem;
   padding-top: 2rem;
   line-height: 1.5;
+  text-align: center;
 }
 
 footer, footer article {

@@ -50,6 +50,7 @@
     <table class="packages">
       <thead>
         <tr>
+          <th width="23"></th>
           <th>name</th>
           <th>downloads</th>
         </tr>
@@ -57,11 +58,13 @@
       <tbody>
         <% downloads.topPackages.forEach(function(data, idx) { %>
           <tr>
-            <td><b><%=idx+1%></b> <a target="_blank" href="https://npmjs.org/<%= data.name %>"><%= data.name %></a></td>
+            <td><%=idx+1 < 10 ? `0${idx+1}` : idx+1%></td>
+            <td><a target="_blank" href="https://npmjs.org/<%= data.name %>"><%= data.name %></a></td>
             <td><%= data.downloads.toLocaleString() %></td>
           </tr>
         <%})%>
         <tr>
+          <td></td>
           <td><a target="_blank" href="https://www.npmjs.com/~wcjiang">...</a></td>
           <td>=<a target="_blank" href="https://www.npmjs.com/~wcjiang"><%= downloads.totalDownloads.toLocaleString() %></a></td>
         </tr>
