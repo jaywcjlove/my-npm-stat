@@ -44,12 +44,16 @@ main {
 
 header {
   padding-top: 6rem;
+  padding-bottom: 4rem;
+}
+header > p {
+  text-align: center;
+  color: var(--color-fg-subtle);
 }
 header article {
-  font-size: 5rem;
   text-align: center;
+  font-size: 5rem;
   clear: both;
-  padding-bottom: 4rem;
   padding-top: 6rem;
   font-weight: bold;
 }
@@ -98,10 +102,7 @@ header::after {
 }
 
 table.packages tr th {
-  padding: 0.23rem 0.32rem;
   text-align: left;
-}
-table.packages th {
   background-color: rgba(175,184,193,0.12);
 }
 table.packages {
@@ -109,14 +110,20 @@ table.packages {
   border-spacing: 5px;
   background-color: rgb(175 184 193 / 15%);
 }
-table.packages tbody tr:hover {
+table.packages tbody tr:hover td {
   background-color: rgba(175,184,193,0.2);
 }
-table.packages tbody tr td {
+table.packages tr td, table.packages tr th {
   padding: 0.23rem 0.32rem;
+  border-radius: 3px;
+  transition: all 0.2s;
 }
 table.packages a {
   color: var(--color-accent-fg);
+}
+table.packages tbody tr:last-child td {
+  background: #ffffff0d;
+  border-radius: 2px;
 }
 
 .chart {

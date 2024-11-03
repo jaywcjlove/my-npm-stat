@@ -38,6 +38,7 @@
       <article>
         <a href=""><%= downloads.totalDownloads.toLocaleString() %></a><sub>pre year</sub>
       </article>
+      <p>All data comes directly from npm.</p>
     </header>
     <h2>Downloads per day</h2>
     <div id="preDay" class="chart"></div>
@@ -56,12 +57,13 @@
       <tbody>
         <% downloads.topPackages.forEach(function(data, idx) { %>
           <tr>
-            <td><a target="_blank" href="https://npmjs.org/<%= data.name %>"><%= data.name %></a></td>
+            <td><b><%=idx+1%></b> <a target="_blank" href="https://npmjs.org/<%= data.name %>"><%= data.name %></a></td>
             <td><%= data.downloads.toLocaleString() %></td>
           </tr>
         <%})%>
         <tr>
-          <td colspan="2"><a target="_blank" href="https://www.npmjs.com/~wcjiang">...</a></td>
+          <td><a target="_blank" href="https://www.npmjs.com/~wcjiang">...</a></td>
+          <td>=<a target="_blank" href="https://www.npmjs.com/~wcjiang"><%= downloads.totalDownloads.toLocaleString() %></a></td>
         </tr>
       </tbody>
     </table>
@@ -89,7 +91,7 @@
     const getSize = () => ({ width: dom.offsetWidth - 10, height: 300 });
     const xAxes = { stroke: "#a1a1a1", grid: { stroke: "#333", width: 1 }, ticks: { stroke: "#333", width: 1 }, rotate: 25, space: 31 }
     const yAxes = { stroke: "#a1a1a1", grid: { stroke: "#333", width: 1 }, ticks: { stroke: "#333", width: 1 }, size: 65, values: (u, splits) => splits.map(v => formatDownloads(v)), space: 16 }
-    const dataSeries = { label: "Date", value: (u, v) => new Date().toLocaleDateString() }
+    const dataSeries = { label: "Date", value: (u, v) => v ? new Date(v*1000).toLocaleDateString() : "-"}
     const downloadsSeries = { label: "Downloads", value: (u, v) => v, stroke: "#8989ff", width: 1/devicePixelRatio, fill: "rgb(34 255 0 / 10%)" }
     const options = {
       width: 1920,
