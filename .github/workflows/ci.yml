@@ -29,7 +29,7 @@ jobs:
     
       - name: Commit and push changes
         run: |
-          git add data/
+          git add data/badge.json data/data.json data/package-stats.json
           git diff-index --quiet HEAD || git commit -m 'ci: Update npm-stat data'
           git pull --rebase
           git push
@@ -43,10 +43,3 @@ jobs:
           publish_dir: ./dist
           user_name: github-actions[bot]
           user_email: github-actions[bot]@users.noreply.github.com
-
-      - name: Modify README.md
-        uses: jaywcjlove/github-action-modify-file-content@main
-        with:
-          path: README.md
-          body: "{{date:YYYY-MM-DD HH:mm:ss}}"
-          branch: main
