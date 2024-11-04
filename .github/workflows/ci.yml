@@ -28,13 +28,15 @@ jobs:
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
     
       - name: Commit and push changes
-        run: |
-          git add data/badge.json data/data.json data/package-stats.json
-          git diff-index --quiet HEAD || git commit -m 'ci: Update npm-stat data'
-          git pull --rebase
-          git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git stash
+          git pull --rebase
+          git stash pop
+          git add data/badge.json data/data.json data/package-stats.json
+          git diff-index --quiet HEAD || git commit -m 'ci: Update npm-stat data'
+          git push
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v4
