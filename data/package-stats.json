@@ -1,6 +1,5 @@
 {
   "dailyDownloads": {
-    "2023-11-04": 89811,
     "2023-11-05": 91642,
     "2023-11-06": 387864,
     "2023-11-07": 430486,
@@ -364,10 +363,11 @@
     "2024-10-30": 867643,
     "2024-10-31": 805957,
     "2024-11-01": 595304,
-    "2024-11-02": 192717
+    "2024-11-02": 192717,
+    "2024-11-03": 200580
   },
   "weeklyDownloads": {
-    "2023-W44": 181453,
+    "2023-W44": 91642,
     "2023-W45": 2265888,
     "2023-W46": 2274870,
     "2023-W47": 2003631,
@@ -419,10 +419,10 @@
     "2024-W41": 4147155,
     "2024-W42": 4200054,
     "2024-W43": 4437930,
-    "2024-W44": 4153905
+    "2024-W44": 4354485
   },
   "monthlyDownloads": {
-    "2023-11": 8750844,
+    "2023-11": 8661033,
     "2023-12": 8706771,
     "2024-1": 10923162,
     "2024-2": 12170563,
@@ -434,413 +434,413 @@
     "2024-8": 16284807,
     "2024-9": 17429106,
     "2024-10": 19466325,
-    "2024-11": 788021
+    "2024-11": 988601
   },
   "yearlyDownloads": {
     "2023": 17457615,
-    "2024": 147176749
+    "2024": 147377329
   },
-  "totalDownloads": 164634364,
+  "totalDownloads": 164745133,
   "topPackages": [
     {
       "name": "@uiw/react-codemirror",
-      "downloads": 25880993
+      "downloads": 25896876
     },
     {
       "name": "@uiw/codemirror-extensions-basic-setup",
-      "downloads": 25024254
+      "downloads": 25041070
     },
     {
       "name": "hotkeys-js",
-      "downloads": 21960907
+      "downloads": 21965044
     },
     {
       "name": "@uiw/codemirror-themes",
-      "downloads": 9955551
+      "downloads": 9964454
     },
     {
       "name": "@uiw/react-markdown-preview",
-      "downloads": 5054272
+      "downloads": 5056521
     },
     {
       "name": "rehype-rewrite",
-      "downloads": 4899044
+      "downloads": 4901469
     },
     {
       "name": "@uiw/react-md-editor",
-      "downloads": 4510532
+      "downloads": 4512359
     },
     {
       "name": "rehype-attr",
-      "downloads": 3914508
+      "downloads": 3916782
     },
     {
       "name": "rehype-ignore",
-      "downloads": 3873710
+      "downloads": 3876040
     },
     {
       "name": "@uiw/copy-to-clipboard",
-      "downloads": 3749561
+      "downloads": 3751490
     },
     {
       "name": "colors-cli",
-      "downloads": 2788107
+      "downloads": 2790407
     },
     {
       "name": "@uiw/codemirror-theme-github",
-      "downloads": 2102904
+      "downloads": 2104951
     },
     {
       "name": "@uiw/color-convert",
-      "downloads": 1730371
+      "downloads": 1731086
     },
     {
       "name": "@uiw/codemirror-extensions-langs",
-      "downloads": 1515520
+      "downloads": 1516963
     },
     {
       "name": "@uiw/react-textarea-code-editor",
-      "downloads": 1480315
+      "downloads": 1479930
     },
     {
       "name": "@uiw/react-drag-event-interactive",
-      "downloads": 1451511
+      "downloads": 1452130
     },
     {
       "name": "@uiw/react-json-view",
-      "downloads": 1448577
+      "downloads": 1450987
     },
     {
       "name": "@uiw/react-color-alpha",
-      "downloads": 1386326
+      "downloads": 1386926
     },
     {
       "name": "@uiw/react-color-hue",
-      "downloads": 1294655
+      "downloads": 1295240
     },
     {
       "name": "@uiw/react-color-saturation",
-      "downloads": 1237325
+      "downloads": 1237838
     },
     {
       "name": "@uiw/codemirror-theme-material",
-      "downloads": 1200255
+      "downloads": 1203403
     },
     {
       "name": "image2uri",
-      "downloads": 1176061
+      "downloads": 1177305
     },
     {
       "name": "@uiw/react-color-swatch",
-      "downloads": 1173308
+      "downloads": 1173801
     },
     {
       "name": "@uiw/react-color-editable-input",
-      "downloads": 1132238
+      "downloads": 1132721
     },
     {
       "name": "svgtofont",
-      "downloads": 1112391
+      "downloads": 1113547
     },
     {
       "name": "@uiw/react-color-editable-input-rgba",
-      "downloads": 1095432
+      "downloads": 1095945
     },
     {
       "name": "babel-plugin-transform-remove-imports",
-      "downloads": 1056903
+      "downloads": 1057213
     },
     {
       "name": "remark-github-blockquote-alert",
-      "downloads": 889934
+      "downloads": 892908
     },
     {
       "name": "@uiw/react-color-sketch",
-      "downloads": 855328
+      "downloads": 855693
     },
     {
       "name": "@uiw/codemirror-theme-tokyo-night",
-      "downloads": 820516
+      "downloads": 821651
     },
     {
       "name": "react-hot-keys",
-      "downloads": 803799
+      "downloads": 803801
     },
     {
       "name": "@uiw/codemirror-theme-vscode",
-      "downloads": 797138
+      "downloads": 799449
     },
     {
       "name": "@uiw/react-color-editable-input-hsla",
-      "downloads": 732212
+      "downloads": 732635
     },
     {
       "name": "next-remove-imports",
-      "downloads": 726692
+      "downloads": 726789
     },
     {
       "name": "@uiw/react-color-compact",
-      "downloads": 714912
+      "downloads": 715281
     },
     {
       "name": "@uiw/react-color-github",
-      "downloads": 706945
+      "downloads": 707359
     },
     {
       "name": "@uiw/react-color-circle",
-      "downloads": 703194
+      "downloads": 703483
     },
     {
       "name": "@uiw/react-color-chrome",
-      "downloads": 690439
+      "downloads": 690845
     },
     {
       "name": "@uiw/react-color-shade-slider",
-      "downloads": 685750
+      "downloads": 686098
     },
     {
       "name": "cookiejs",
-      "downloads": 672274
+      "downloads": 672748
     },
     {
       "name": "auto-config-loader",
-      "downloads": 670958
+      "downloads": 672373
     },
     {
       "name": "@uiw/react-color-wheel",
-      "downloads": 670739
+      "downloads": 671078
     },
     {
       "name": "@uiw/react-color-block",
-      "downloads": 669758
+      "downloads": 670114
     },
     {
       "name": "@uiw/react-color-colorful",
-      "downloads": 669465
+      "downloads": 669785
     },
     {
       "name": "@uiw/react-color-material",
-      "downloads": 646677
+      "downloads": 646964
     },
     {
       "name": "@uiw/react-color",
-      "downloads": 602250
+      "downloads": 602554
     },
     {
       "name": "@uiw/react-color-slider",
-      "downloads": 599753
+      "downloads": 600061
     },
     {
       "name": "@uiw/codemirror-theme-dracula",
-      "downloads": 576121
+      "downloads": 576539
     },
     {
       "name": "loading-cli",
-      "downloads": 541224
+      "downloads": 541405
     },
     {
       "name": "colors-named-hex",
-      "downloads": 485631
+      "downloads": 485920
     },
     {
       "name": "colors-named",
-      "downloads": 485433
+      "downloads": 485717
     },
     {
       "name": "local-ip-url",
-      "downloads": 477991
+      "downloads": 478032
     },
     {
       "name": "mocker-api",
-      "downloads": 447132
+      "downloads": 447183
     },
     {
       "name": "@uiw/codemirror-theme-sublime",
-      "downloads": 401405
+      "downloads": 402022
     },
     {
       "name": "@uiw/codemirror-theme-duotone",
-      "downloads": 352889
+      "downloads": 353350
     },
     {
       "name": "@uiw/react-color-name",
-      "downloads": 349385
+      "downloads": 349674
     },
     {
       "name": "@uiw/codemirror-theme-xcode",
-      "downloads": 288554
+      "downloads": 288813
     },
     {
       "name": "rehype-video",
-      "downloads": 273756
+      "downloads": 274007
     },
     {
       "name": "@uiw/codemirror-theme-atomone",
-      "downloads": 270728
-    },
-    {
-      "name": "linux-command",
-      "downloads": 263062
+      "downloads": 270994
     },
     {
       "name": "@uiw/codemirror-extensions-events",
-      "downloads": 262356
+      "downloads": 262539
+    },
+    {
+      "name": "linux-command",
+      "downloads": 261615
     },
     {
       "name": "@uiw/react-split",
-      "downloads": 255376
+      "downloads": 255692
     },
     {
       "name": "@uiw/codemirror-theme-basic",
-      "downloads": 243057
+      "downloads": 243380
     },
     {
       "name": "@uiw/codemirror-theme-okaidia",
-      "downloads": 223733
+      "downloads": 224031
     },
     {
       "name": "react-codemirror-merge",
-      "downloads": 217805
+      "downloads": 217961
     },
     {
       "name": "@uiw/codemirror-theme-androidstudio",
-      "downloads": 213768
+      "downloads": 214019
     },
     {
       "name": "@uiw/codemirror-theme-eclipse",
-      "downloads": 212245
+      "downloads": 212525
     },
     {
       "name": "storejs",
-      "downloads": 210093
+      "downloads": 209996
     },
     {
       "name": "@wcj/github-rank",
-      "downloads": 195715
+      "downloads": 197789
     },
     {
       "name": "@uiw/react-markdown-editor",
-      "downloads": 191690
+      "downloads": 191836
     },
     {
       "name": "@uiw/codemirror-theme-gruvbox-dark",
-      "downloads": 177562
+      "downloads": 177787
     },
     {
       "name": "@uiw/codemirror-theme-bbedit",
-      "downloads": 175188
+      "downloads": 175440
     },
     {
       "name": "@uiw/codemirror-theme-solarized",
-      "downloads": 169501
+      "downloads": 169976
     },
     {
       "name": "@uiw/codemirror-theme-nord",
-      "downloads": 167443
+      "downloads": 167717
     },
     {
       "name": "@uiw/codemirror-theme-darcula",
-      "downloads": 166735
+      "downloads": 166957
     },
     {
       "name": "@uiw/codemirror-theme-tokyo-night-storm",
-      "downloads": 155609
+      "downloads": 155866
     },
     {
       "name": "@uiw/codemirror-theme-noctis-lilac",
-      "downloads": 153987
+      "downloads": 154200
     },
     {
       "name": "@uiw/codemirror-extensions-color",
-      "downloads": 151314
+      "downloads": 151313
     },
     {
       "name": "@uiw/codemirror-theme-aura",
-      "downloads": 150097
+      "downloads": 150341
     },
     {
       "name": "@wcj/markdown-to-html",
-      "downloads": 148212
+      "downloads": 148356
     },
     {
       "name": "@uiw/codemirror-theme-tokyo-night-day",
-      "downloads": 146613
+      "downloads": 146843
     },
     {
       "name": "hsl-matcher",
-      "downloads": 146078
+      "downloads": 146062
     },
     {
       "name": "@uiw/codemirror-theme-abcdef",
-      "downloads": 144774
+      "downloads": 144982
     },
     {
       "name": "@uiw/codemirror-theme-kimbie",
-      "downloads": 143582
+      "downloads": 143815
     },
     {
       "name": "@uiw/codemirror-theme-monokai",
-      "downloads": 141444
+      "downloads": 141684
     },
     {
       "name": "@uiw/codemirror-theme-copilot",
-      "downloads": 140955
+      "downloads": 141241
     },
     {
       "name": "@uiw/codemirror-theme-bespin",
-      "downloads": 136487
+      "downloads": 136729
     },
     {
       "name": "@uiw/codemirror-themes-all",
-      "downloads": 133943
+      "downloads": 134178
     },
     {
       "name": "@uiw/codemirror-theme-quietlight",
-      "downloads": 130556
+      "downloads": 130783
     },
     {
       "name": "@uiw/codemirror-theme-monokai-dimmed",
-      "downloads": 127665
+      "downloads": 127948
     },
     {
       "name": "@uiw/codemirror-theme-red",
-      "downloads": 126082
+      "downloads": 126304
     },
     {
       "name": "@uiw/codemirror-theme-white",
-      "downloads": 117955
+      "downloads": 118187
     },
     {
       "name": "@uiw/codemirror-theme-andromeda",
-      "downloads": 114529
+      "downloads": 114753
     },
     {
       "name": "@uiw/codemirror-theme-abyss",
-      "downloads": 113629
+      "downloads": 113857
     },
     {
       "name": "@uiw/codemirror-theme-tomorrow-night-blue",
-      "downloads": 112183
+      "downloads": 112409
     },
     {
       "name": "@uiw/codemirror-theme-console",
-      "downloads": 97793
+      "downloads": 98021
     },
     {
       "name": "@uiw/react-baidu-map",
-      "downloads": 96904
+      "downloads": 96945
     },
     {
       "name": "@wcj/html-to-markdown",
-      "downloads": 89092
+      "downloads": 89122
     },
     {
       "name": "coverage-badges-cli",
-      "downloads": 87489
+      "downloads": 87507
     },
     {
       "name": "@uiw/react-baidu-map-types",
-      "downloads": 86886
+      "downloads": 86908
     }
   ]
 }

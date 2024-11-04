@@ -2439,39 +2439,6 @@
     ]
   },
   {
-    "name": "storejs",
-    "scope": "unscoped",
-    "version": "2.1.0",
-    "description": "Local storage localstorage package provides a simple API",
-    "keywords": [
-      "storejs",
-      "store",
-      "storage",
-      "local",
-      "localstorage"
-    ],
-    "date": "2024-04-17T15:11:32.039Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/storejs",
-      "homepage": "https://jaywcjlove.github.io/store.js/",
-      "bugs": "https://github.com/jaywcjlove/store.js/issues"
-    },
-    "author": {
-      "name": "kenny wang",
-      "email": "wowohoo@qq.com"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
     "name": "@uiw/codemirror-theme-eclipse",
     "scope": "uiw",
     "version": "4.23.6",
@@ -5183,7 +5150,7 @@
       "区县",
       "乡镇",
       "街道",
-      "村委会",
+      "��委会",
       "居委会",
       "省级",
       "地级",
@@ -5531,45 +5498,6 @@
     ]
   },
   {
-    "name": "@uiw/codemirror-extensions-langs",
-    "scope": "uiw",
-    "version": "4.23.6",
-    "description": "Load languages Extensions for CodeMirror6.",
-    "keywords": [
-      "codemirror",
-      "codemirror6",
-      "langs",
-      "extensions",
-      "ide",
-      "code"
-    ],
-    "date": "2024-10-25T03:49:16.263Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40uiw%2Fcodemirror-extensions-langs",
-      "homepage": "https://uiwjs.github.io/react-codemirror/#/extensions/languages",
-      "repository": "https://github.com/uiwjs/react-codemirror",
-      "bugs": "https://github.com/uiwjs/react-codemirror/issues"
-    },
-    "author": {
-      "name": "kenny wong",
-      "email": "wowohoo@qq.com"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
     "name": "loading-cli",
     "scope": "unscoped",
     "version": "1.1.2",
@@ -5610,6 +5538,45 @@
       "email": "398188662@qq.com"
     },
     "maintainers": [
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "@uiw/codemirror-extensions-langs",
+    "scope": "uiw",
+    "version": "4.23.6",
+    "description": "Load languages Extensions for CodeMirror6.",
+    "keywords": [
+      "codemirror",
+      "codemirror6",
+      "langs",
+      "extensions",
+      "ide",
+      "code"
+    ],
+    "date": "2024-10-25T03:49:16.263Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40uiw%2Fcodemirror-extensions-langs",
+      "homepage": "https://uiwjs.github.io/react-codemirror/#/extensions/languages",
+      "repository": "https://github.com/uiwjs/react-codemirror",
+      "bugs": "https://github.com/uiwjs/react-codemirror/issues"
+    },
+    "author": {
+      "name": "kenny wong",
+      "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
       {
         "username": "wcjiang",
         "email": "398188662@qq.com"
@@ -6427,6 +6394,40 @@
         "username": "uiwjs",
         "email": "kennyiseeyou@gmail.com"
       },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "storejs",
+    "scope": "unscoped",
+    "version": "2.1.0",
+    "description": "Local storage localstorage package provides a simple API",
+    "keywords": [
+      "storejs",
+      "store",
+      "storage",
+      "local",
+      "localstorage"
+    ],
+    "date": "2024-04-17T15:11:32.039Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/storejs",
+      "homepage": "https://jaywcjlove.github.io/store.js/",
+      "repository": "https://github.com/jaywcjlove/store.js",
+      "bugs": "https://github.com/jaywcjlove/store.js/issues"
+    },
+    "author": {
+      "name": "kenny wang",
+      "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
       {
         "username": "wcjiang",
         "email": "398188662@qq.com"
@@ -8159,6 +8160,49 @@
     ]
   },
   {
+    "name": "@uiw/react-amap-ellipse",
+    "scope": "uiw",
+    "version": "7.1.3",
+    "description": "构造圆形对象，通过 EllipseOptions 指定多边形样式。",
+    "keywords": [
+      "react-amap",
+      "api-loader",
+      "amap",
+      "ellipse",
+      "map",
+      "react",
+      "bdmap",
+      "types",
+      "高德",
+      "地图",
+      "高德地图"
+    ],
+    "date": "2024-09-20T11:34:12.564Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40uiw%2Freact-amap-ellipse",
+      "homepage": "https://uiwjs.github.io/react-amap/#/ellipse",
+      "repository": "https://github.com/uiwjs/react-amap"
+    },
+    "author": {
+      "name": "Kenny Wong",
+      "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
     "name": "@uiw/react-amap-bezier-curve",
     "scope": "uiw",
     "version": "7.1.3",
@@ -8182,49 +8226,6 @@
       "homepage": "https://uiwjs.github.io/react-amap/#/beizer-curve",
       "repository": "https://github.com/uiwjs/react-amap",
       "bugs": "https://github.com/uiwjs/react-amap/issues"
-    },
-    "author": {
-      "name": "Kenny Wong",
-      "email": "wowohoo@qq.com"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "@uiw/react-amap-ellipse",
-    "scope": "uiw",
-    "version": "7.1.3",
-    "description": "构造圆形对象，通过 EllipseOptions 指定多边形样式。",
-    "keywords": [
-      "react-amap",
-      "api-loader",
-      "amap",
-      "ellipse",
-      "map",
-      "react",
-      "bdmap",
-      "types",
-      "高德",
-      "地图",
-      "高德地图"
-    ],
-    "date": "2024-09-20T11:34:12.564Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40uiw%2Freact-amap-ellipse",
-      "homepage": "https://uiwjs.github.io/react-amap/#/ellipse",
-      "repository": "https://github.com/uiwjs/react-amap"
     },
     "author": {
       "name": "Kenny Wong",
@@ -8378,49 +8379,6 @@
     ]
   },
   {
-    "name": "@uiw/react-amap-text",
-    "scope": "uiw",
-    "version": "7.1.3",
-    "description": "点标记是用来标示某个位置点信息的一种地图要素，本章介绍如何在地图图面使用点标记。",
-    "keywords": [
-      "react-amap",
-      "api-loader",
-      "amap",
-      "text",
-      "map",
-      "react",
-      "bdmap",
-      "types",
-      "高德",
-      "地图",
-      "高德地图"
-    ],
-    "date": "2024-09-20T11:35:06.820Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40uiw%2Freact-amap-text",
-      "homepage": "https://uiwjs.github.io/react-amap/#/text",
-      "repository": "https://github.com/uiwjs/react-amap"
-    },
-    "author": {
-      "name": "Kenny Wong",
-      "email": "wowohoo@qq.com"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
     "name": "@province-city-china/city",
     "scope": "province-city-china",
     "version": "8.5.8",
@@ -8468,6 +8426,49 @@
       "email": "398188662@qq.com"
     },
     "maintainers": [
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "@uiw/react-amap-text",
+    "scope": "uiw",
+    "version": "7.1.3",
+    "description": "点标记是用来标示某个位置点信息的一种地图要素，本章介绍如何在地图图面使用点标记。",
+    "keywords": [
+      "react-amap",
+      "api-loader",
+      "amap",
+      "text",
+      "map",
+      "react",
+      "bdmap",
+      "types",
+      "高德",
+      "地图",
+      "高德地图"
+    ],
+    "date": "2024-09-20T11:35:06.820Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40uiw%2Freact-amap-text",
+      "homepage": "https://uiwjs.github.io/react-amap/#/text",
+      "repository": "https://github.com/uiwjs/react-amap"
+    },
+    "author": {
+      "name": "Kenny Wong",
+      "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
       {
         "username": "wcjiang",
         "email": "398188662@qq.com"
@@ -11187,55 +11188,6 @@
     ]
   },
   {
-    "name": "@uiw/react-head",
-    "scope": "uiw",
-    "version": "1.0.4",
-    "description": "React components will manage your changes to the document head",
-    "keywords": [
-      "react-head",
-      "react.js",
-      "react",
-      "template",
-      "monorepo",
-      "head",
-      "uiw",
-      "uiw-react",
-      "react-component",
-      "component",
-      "components",
-      "ui",
-      "css",
-      "uikit",
-      "react-ui",
-      "framework"
-    ],
-    "date": "2023-12-14T14:50:47.036Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40uiw%2Freact-head",
-      "homepage": "https://uiwjs.github.io/react-head",
-      "repository": "https://github.com/uiwjs/react-head",
-      "bugs": "https://github.com/uiwjs/react-head/issues"
-    },
-    "author": {
-      "name": "Kenny Wong",
-      "email": "wowohoo@qq.com"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
     "name": "@uiw/react-markdown-preview-example",
     "scope": "uiw",
     "version": "2.1.4",
@@ -11719,7 +11671,7 @@
       "联动",
       "省份",
       "城市",
-      "县市",
+      "县��",
       "区县",
       "乡镇",
       "街道",
@@ -12551,6 +12503,54 @@
     ]
   },
   {
+    "name": "@uiw/react-head",
+    "scope": "uiw",
+    "version": "1.0.4",
+    "description": "React components will manage your changes to the document head",
+    "keywords": [
+      "react-head",
+      "react.js",
+      "react",
+      "template",
+      "monorepo",
+      "head",
+      "uiw",
+      "uiw-react",
+      "react-component",
+      "component",
+      "components",
+      "ui",
+      "css",
+      "uikit",
+      "react-ui",
+      "framework"
+    ],
+    "date": "2023-12-14T14:50:47.036Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40uiw%2Freact-head",
+      "homepage": "https://uiwjs.github.io/react-head",
+      "repository": "https://github.com/uiwjs/react-head"
+    },
+    "author": {
+      "name": "Kenny Wong",
+      "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
     "name": "@kkt/less-modules",
     "scope": "kkt",
     "version": "7.5.5",
@@ -12998,6 +12998,44 @@
     ]
   },
   {
+    "name": "create-uiw-admin",
+    "scope": "unscoped",
+    "version": "6.1.9",
+    "description": "Creates a antdp application using the command line.",
+    "keywords": [
+      "tsbb",
+      "create-tsbb",
+      "react",
+      "redux",
+      "rematch",
+      "uiw",
+      "redux-saga",
+      "framework",
+      "frontend"
+    ],
+    "date": "2023-04-27T08:40:54.603Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/create-uiw-admin",
+      "homepage": "https://uiwjs.github.io/uiw-admin",
+      "repository": "https://github.com/uiwjs/uiw-admin"
+    },
+    "author": {
+      "name": "Kenny Wong",
+      "email": "wowohoo@qq.com",
+      "url": "https://github.com/jaywcjlove"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
     "name": "kktp",
     "scope": "unscoped",
     "version": "1.1.5",
@@ -13032,44 +13070,6 @@
         "username": "uiwjs",
         "email": "kennyiseeyou@gmail.com"
       },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "create-uiw-admin",
-    "scope": "unscoped",
-    "version": "6.1.9",
-    "description": "Creates a antdp application using the command line.",
-    "keywords": [
-      "tsbb",
-      "create-tsbb",
-      "react",
-      "redux",
-      "rematch",
-      "uiw",
-      "redux-saga",
-      "framework",
-      "frontend"
-    ],
-    "date": "2023-04-27T08:40:54.603Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/create-uiw-admin",
-      "homepage": "https://uiwjs.github.io/uiw-admin",
-      "repository": "https://github.com/uiwjs/uiw-admin"
-    },
-    "author": {
-      "name": "Kenny Wong",
-      "email": "wowohoo@qq.com",
-      "url": "https://github.com/jaywcjlove"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
       {
         "username": "wcjiang",
         "email": "398188662@qq.com"
@@ -14483,6 +14483,29 @@
     ]
   },
   {
+    "name": "merge-array-object",
+    "scope": "unscoped",
+    "version": "1.0.6",
+    "description": "Concat array and merge object",
+    "date": "2024-03-05T07:27:23.638Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/merge-array-object",
+      "homepage": "https://github.com/wabg/merge-array-object#readme",
+      "repository": "https://github.com/wabg/merge-array-object",
+      "bugs": "https://github.com/wabg/merge-array-object/issues"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
     "name": "@kkt/plugin-pro-utils",
     "scope": "kkt",
     "version": "1.1.5",
@@ -14517,29 +14540,6 @@
         "username": "uiwjs",
         "email": "kennyiseeyou@gmail.com"
       },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "merge-array-object",
-    "scope": "unscoped",
-    "version": "1.0.6",
-    "description": "Concat array and merge object",
-    "date": "2024-03-05T07:27:23.638Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/merge-array-object",
-      "homepage": "https://github.com/wabg/merge-array-object#readme",
-      "repository": "https://github.com/wabg/merge-array-object",
-      "bugs": "https://github.com/wabg/merge-array-object/issues"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
       {
         "username": "wcjiang",
         "email": "398188662@qq.com"
@@ -18428,6 +18428,43 @@
     ]
   },
   {
+    "name": "@icongo/ae",
+    "scope": "icongo",
+    "version": "1.2.0",
+    "description": "Aegis Icons",
+    "keywords": [
+      "icongo",
+      "boxicons",
+      "react-icons",
+      "icons",
+      "icon"
+    ],
+    "date": "2023-04-17T18:55:40.852Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40icongo%2Fae",
+      "homepage": "http://icongo.github.io/#/icons/ae",
+      "repository": "https://github.com/jaywcjlove/icongo",
+      "bugs": "https://github.com/jaywcjlove/icongo/issues"
+    },
+    "author": {
+      "name": "jaywcjlove"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
     "name": "chinese-poetry",
     "scope": "unscoped",
     "version": "1.4.1",
@@ -18468,21 +18505,23 @@
     ]
   },
   {
-    "name": "@icongo/ae",
+    "name": "@icongo/wi",
     "scope": "icongo",
     "version": "1.2.0",
-    "description": "Aegis Icons",
+    "description": "Weather Icons",
     "keywords": [
       "icongo",
-      "boxicons",
+      "Weather",
+      "wi",
+      "go",
       "react-icons",
       "icons",
       "icon"
     ],
-    "date": "2023-04-17T18:55:40.852Z",
+    "date": "2023-04-17T19:01:33.623Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/%40icongo%2Fae",
-      "homepage": "http://icongo.github.io/#/icons/ae",
+      "npm": "https://www.npmjs.com/package/%40icongo%2Fwi",
+      "homepage": "http://icongo.github.io/#/icons/wi",
       "repository": "https://github.com/jaywcjlove/icongo",
       "bugs": "https://github.com/jaywcjlove/icongo/issues"
     },
@@ -18505,23 +18544,95 @@
     ]
   },
   {
-    "name": "@icongo/wi",
+    "name": "@icongo/bl",
     "scope": "icongo",
     "version": "1.2.0",
-    "description": "Weather Icons",
+    "description": "Bank Logos Icons",
     "keywords": [
       "icongo",
-      "Weather",
-      "wi",
-      "go",
+      "boxicons",
       "react-icons",
       "icons",
       "icon"
     ],
-    "date": "2023-04-17T19:01:33.623Z",
+    "date": "2023-04-17T18:55:50.651Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/%40icongo%2Fwi",
-      "homepage": "http://icongo.github.io/#/icons/wi",
+      "npm": "https://www.npmjs.com/package/%40icongo%2Fbl",
+      "homepage": "http://icongo.github.io/#/icons/bl",
+      "repository": "https://github.com/jaywcjlove/icongo",
+      "bugs": "https://github.com/jaywcjlove/icongo/issues"
+    },
+    "author": {
+      "name": "jaywcjlove"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "@icongo/br",
+    "scope": "icongo",
+    "version": "1.2.0",
+    "description": "Browser Logos Icons",
+    "keywords": [
+      "icongo",
+      "boxicons",
+      "react-icons",
+      "icons",
+      "icon"
+    ],
+    "date": "2023-04-17T18:55:52.993Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40icongo%2Fbr",
+      "homepage": "http://icongo.github.io/#/icons/br",
+      "repository": "https://github.com/jaywcjlove/icongo",
+      "bugs": "https://github.com/jaywcjlove/icongo/issues"
+    },
+    "author": {
+      "name": "jaywcjlove"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "@icongo/ad",
+    "scope": "icongo",
+    "version": "1.2.0",
+    "description": "Ant Design SVG Icons",
+    "keywords": [
+      "icongo",
+      "boxicons",
+      "react-icons",
+      "icons",
+      "icon"
+    ],
+    "date": "2023-04-17T18:55:36.978Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40icongo%2Fad",
+      "homepage": "http://icongo.github.io/#/icons/ad",
       "repository": "https://github.com/jaywcjlove/icongo",
       "bugs": "https://github.com/jaywcjlove/icongo/issues"
     },
@@ -18587,117 +18698,6 @@
       "email": "398188662@qq.com"
     },
     "maintainers": [
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "@icongo/bl",
-    "scope": "icongo",
-    "version": "1.2.0",
-    "description": "Bank Logos Icons",
-    "keywords": [
-      "icongo",
-      "boxicons",
-      "react-icons",
-      "icons",
-      "icon"
-    ],
-    "date": "2023-04-17T18:55:50.651Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40icongo%2Fbl",
-      "homepage": "http://icongo.github.io/#/icons/bl",
-      "repository": "https://github.com/jaywcjlove/icongo",
-      "bugs": "https://github.com/jaywcjlove/icongo/issues"
-    },
-    "author": {
-      "name": "jaywcjlove"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "@icongo/ad",
-    "scope": "icongo",
-    "version": "1.2.0",
-    "description": "Ant Design SVG Icons",
-    "keywords": [
-      "icongo",
-      "boxicons",
-      "react-icons",
-      "icons",
-      "icon"
-    ],
-    "date": "2023-04-17T18:55:36.978Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40icongo%2Fad",
-      "homepage": "http://icongo.github.io/#/icons/ad",
-      "repository": "https://github.com/jaywcjlove/icongo",
-      "bugs": "https://github.com/jaywcjlove/icongo/issues"
-    },
-    "author": {
-      "name": "jaywcjlove"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "@icongo/br",
-    "scope": "icongo",
-    "version": "1.2.0",
-    "description": "Browser Logos Icons",
-    "keywords": [
-      "icongo",
-      "boxicons",
-      "react-icons",
-      "icons",
-      "icon"
-    ],
-    "date": "2023-04-17T18:55:52.993Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40icongo%2Fbr",
-      "homepage": "http://icongo.github.io/#/icons/br",
-      "repository": "https://github.com/jaywcjlove/icongo",
-      "bugs": "https://github.com/jaywcjlove/icongo/issues"
-    },
-    "author": {
-      "name": "jaywcjlove"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
       {
         "username": "wcjiang",
         "email": "398188662@qq.com"
