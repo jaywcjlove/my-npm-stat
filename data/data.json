@@ -60,7 +60,8 @@
     "links": {
       "npm": "https://www.npmjs.com/package/hotkeys-js",
       "homepage": "https://jaywcjlove.github.io/hotkeys-js",
-      "repository": "https://github.com/jaywcjlove/hotkeys-js"
+      "repository": "https://github.com/jaywcjlove/hotkeys-js",
+      "bugs": "https://github.com/jaywcjlove/hotkeys-js/issues"
     },
     "author": {
       "name": "kenny wong",
@@ -3516,6 +3517,46 @@
     ]
   },
   {
+    "name": "@uiw/copy-to-clipboard",
+    "scope": "uiw",
+    "version": "1.0.17",
+    "description": "Copy to clipboard.",
+    "keywords": [
+      "copy",
+      "text",
+      "clipboard",
+      "browser",
+      "clipboard-copy",
+      "clipboard.js"
+    ],
+    "date": "2024-03-26T14:24:14.648Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40uiw%2Fcopy-to-clipboard",
+      "homepage": "https://uiwjs.github.io/copy-to-clipboard",
+      "repository": "https://github.com/uiwjs/copy-to-clipboard",
+      "bugs": "https://github.com/uiwjs/copy-to-clipboard/issues"
+    },
+    "author": {
+      "name": "Kenny Wang",
+      "email": "wowohoo@qq.com",
+      "url": "https://wangchujiang.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
     "name": "@uiw/codemirror-theme-abyss",
     "scope": "uiw",
     "version": "4.23.6",
@@ -3581,46 +3622,6 @@
     "author": {
       "name": "kenny wong",
       "email": "wowohoo@qq.com"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "@uiw/copy-to-clipboard",
-    "scope": "uiw",
-    "version": "1.0.17",
-    "description": "Copy to clipboard.",
-    "keywords": [
-      "copy",
-      "text",
-      "clipboard",
-      "browser",
-      "clipboard-copy",
-      "clipboard.js"
-    ],
-    "date": "2024-03-26T14:24:14.648Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40uiw%2Fcopy-to-clipboard",
-      "homepage": "https://uiwjs.github.io/copy-to-clipboard",
-      "repository": "https://github.com/uiwjs/copy-to-clipboard",
-      "bugs": "https://github.com/uiwjs/copy-to-clipboard/issues"
-    },
-    "author": {
-      "name": "Kenny Wang",
-      "email": "wowohoo@qq.com",
-      "url": "https://wangchujiang.com"
     },
     "publisher": {
       "username": "wcjiang",
@@ -5037,7 +5038,7 @@
   {
     "name": "@wcj/github-rank",
     "scope": "wcj",
-    "version": "24.11.7",
+    "version": "24.11.8",
     "description": "Github Users Ranking for China.",
     "keywords": [
       "github",
@@ -5045,7 +5046,7 @@
       "rank",
       "ranking"
     ],
-    "date": "2024-11-07T06:02:46.996Z",
+    "date": "2024-11-08T06:01:11.334Z",
     "links": {
       "npm": "https://www.npmjs.com/package/%40wcj%2Fgithub-rank",
       "homepage": "http://jaywcjlove.github.io/github-rank/",
@@ -5500,35 +5501,6 @@
     ]
   },
   {
-    "name": "@tsbb/copy-template-dir",
-    "scope": "tsbb",
-    "version": "1.4.0",
-    "description": "High throughput template dir writes",
-    "keywords": [
-      "template",
-      "directory",
-      "boilerplate",
-      "copy",
-      "concurrent"
-    ],
-    "date": "2024-06-15T14:56:12.641Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40tsbb%2Fcopy-template-dir",
-      "homepage": "https://github.com/tsbbjs/copy-template-dir#readme",
-      "repository": "https://github.com/tsbbjs/copy-template-dir"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
     "name": "loading-cli",
     "scope": "unscoped",
     "version": "1.1.2",
@@ -5563,6 +5535,35 @@
     "author": {
       "name": "kenny wang",
       "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "@tsbb/copy-template-dir",
+    "scope": "tsbb",
+    "version": "1.4.0",
+    "description": "High throughput template dir writes",
+    "keywords": [
+      "template",
+      "directory",
+      "boilerplate",
+      "copy",
+      "concurrent"
+    ],
+    "date": "2024-06-15T14:56:12.641Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40tsbb%2Fcopy-template-dir",
+      "homepage": "https://github.com/tsbbjs/copy-template-dir#readme",
+      "repository": "https://github.com/tsbbjs/copy-template-dir"
     },
     "publisher": {
       "username": "wcjiang",
@@ -5946,38 +5947,6 @@
     ]
   },
   {
-    "name": "@antdp/authorized",
-    "scope": "antdp",
-    "version": "2.1.1",
-    "description": "通过判断是否进入主界面还是登录界面。",
-    "keywords": [
-      "authorized",
-      "antdp",
-      "antd"
-    ],
-    "date": "2024-03-28T14:42:11.276Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40antdp%2Fauthorized",
-      "homepage": "https://antdpro.github.io/antdp",
-      "repository": "https://github.com/antdpro/antdp/tree/master",
-      "bugs": "https://github.com/antdpro/antdp/issues"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
     "name": "@uiw/react-tag",
     "scope": "uiw",
     "version": "4.22.3",
@@ -6139,6 +6108,38 @@
     "author": {
       "name": "Kenny Wong",
       "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "@antdp/authorized",
+    "scope": "antdp",
+    "version": "2.1.1",
+    "description": "通过判断是否进入主界面还是登录界面。",
+    "keywords": [
+      "authorized",
+      "antdp",
+      "antd"
+    ],
+    "date": "2024-03-28T14:42:11.276Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40antdp%2Fauthorized",
+      "homepage": "https://antdpro.github.io/antdp",
+      "repository": "https://github.com/antdpro/antdp/tree/master",
+      "bugs": "https://github.com/antdpro/antdp/issues"
     },
     "publisher": {
       "username": "wcjiang",
@@ -6828,7 +6829,7 @@
     "name": "@uiw/react-amap-marker",
     "scope": "uiw",
     "version": "7.1.3",
-    "description": "点标记是用来标示某个位置点信息的一种地图要素，本章介绍如何在地图图面使用点标记。",
+    "description": "点标记是用来标示某个��置点信息的一种地图要素，本章介绍如何在地图图面使用点标记。",
     "keywords": [
       "react-amap",
       "api-loader",
@@ -7018,39 +7019,6 @@
     ]
   },
   {
-    "name": "@antdp/document-title",
-    "scope": "antdp",
-    "version": "2.1.1",
-    "description": "设置页面标题",
-    "keywords": [
-      "document",
-      "title",
-      "antdp",
-      "antd"
-    ],
-    "date": "2024-03-28T14:42:30.261Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40antdp%2Fdocument-title",
-      "homepage": "https://antdpro.github.io/antdp",
-      "repository": "https://github.com/antdpro/antdp/tree/master",
-      "bugs": "https://github.com/antdpro/antdp/issues"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
     "name": "@uiw/react-modal",
     "scope": "uiw",
     "version": "4.22.3",
@@ -7094,6 +7062,38 @@
         "username": "uiwjs",
         "email": "kennyiseeyou@gmail.com"
       },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "refs-cli",
+    "scope": "unscoped",
+    "version": "1.8.0",
+    "description": "Command line tool to generate Quick Reference website.",
+    "keywords": [
+      "reference-cli",
+      "reference",
+      "refs-cli",
+      "refs",
+      "cli"
+    ],
+    "date": "2024-10-14T19:57:38.294Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/refs-cli",
+      "homepage": "https://jaywcjlove.github.io/refs-cli/",
+      "repository": "https://github.com/jaywcjlove/refs-cli"
+    },
+    "author": {
+      "name": "jaywcjlove"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
       {
         "username": "wcjiang",
         "email": "398188662@qq.com"
@@ -7188,38 +7188,6 @@
         "username": "uiwjs",
         "email": "kennyiseeyou@gmail.com"
       },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "refs-cli",
-    "scope": "unscoped",
-    "version": "1.8.0",
-    "description": "Command line tool to generate Quick Reference website.",
-    "keywords": [
-      "reference-cli",
-      "reference",
-      "refs-cli",
-      "refs",
-      "cli"
-    ],
-    "date": "2024-10-14T19:57:38.294Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/refs-cli",
-      "homepage": "https://jaywcjlove.github.io/refs-cli/",
-      "repository": "https://github.com/jaywcjlove/refs-cli"
-    },
-    "author": {
-      "name": "jaywcjlove"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
       {
         "username": "wcjiang",
         "email": "398188662@qq.com"
@@ -7403,6 +7371,39 @@
     "author": {
       "name": "Kenny Wong",
       "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "@antdp/document-title",
+    "scope": "antdp",
+    "version": "2.1.1",
+    "description": "设置页面标题",
+    "keywords": [
+      "document",
+      "title",
+      "antdp",
+      "antd"
+    ],
+    "date": "2024-03-28T14:42:30.261Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40antdp%2Fdocument-title",
+      "homepage": "https://antdpro.github.io/antdp",
+      "repository": "https://github.com/antdpro/antdp/tree/master",
+      "bugs": "https://github.com/antdpro/antdp/issues"
     },
     "publisher": {
       "username": "wcjiang",
@@ -7855,104 +7856,6 @@
       "email": "398188662@qq.com"
     },
     "maintainers": [
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "@antdp/fullscreen",
-    "scope": "antdp",
-    "version": "2.1.1",
-    "description": "设置页面全屏",
-    "keywords": [
-      "fullscreen",
-      "antdp",
-      "antd"
-    ],
-    "date": "2024-03-28T14:42:34.944Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40antdp%2Ffullscreen",
-      "homepage": "https://antdpro.github.io/antdp",
-      "repository": "https://github.com/antdpro/antdp/tree/master",
-      "bugs": "https://github.com/antdpro/antdp/issues"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "@antdp/layout-tabs",
-    "scope": "antdp",
-    "version": "2.1.1",
-    "description": "用于主框架选项卡组件。",
-    "keywords": [
-      "layout-tabs",
-      "layout",
-      "tabs",
-      "antdp",
-      "antd"
-    ],
-    "date": "2024-03-28T14:42:44.537Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40antdp%2Flayout-tabs",
-      "homepage": "https://antdpro.github.io/antdp",
-      "repository": "https://github.com/antdpro/antdp/tree/master",
-      "bugs": "https://github.com/antdpro/antdp/issues"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "@antdp/antdp-ui",
-    "scope": "antdp",
-    "version": "2.1.1",
-    "description": "基于antd封装的组件",
-    "keywords": [
-      "antdp-ui",
-      "antdp",
-      "antd"
-    ],
-    "date": "2024-03-28T14:42:06.708Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40antdp%2Fantdp-ui",
-      "homepage": "https://antdpro.github.io/antdp",
-      "repository": "https://github.com/antdpro/antdp/tree/master",
-      "bugs": "https://github.com/antdpro/antdp/issues"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
       {
         "username": "wcjiang",
         "email": "398188662@qq.com"
@@ -8782,7 +8685,7 @@
       "types",
       "高德",
       "地图",
-      "高德��图"
+      "高德地图"
     ],
     "date": "2024-09-20T11:34:09.544Z",
     "links": {
@@ -8856,18 +8759,18 @@
     ]
   },
   {
-    "name": "@antdp/user-login",
+    "name": "@antdp/fullscreen",
     "scope": "antdp",
     "version": "2.1.1",
-    "description": "用户登录页面",
+    "description": "设置页面全屏",
     "keywords": [
-      "login",
+      "fullscreen",
       "antdp",
       "antd"
     ],
-    "date": "2024-03-28T14:42:58.997Z",
+    "date": "2024-03-28T14:42:34.944Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/%40antdp%2Fuser-login",
+      "npm": "https://www.npmjs.com/package/%40antdp%2Ffullscreen",
       "homepage": "https://antdpro.github.io/antdp",
       "repository": "https://github.com/antdpro/antdp/tree/master",
       "bugs": "https://github.com/antdpro/antdp/issues"
@@ -8938,6 +8841,40 @@
     ]
   },
   {
+    "name": "@antdp/layout-tabs",
+    "scope": "antdp",
+    "version": "2.1.1",
+    "description": "用于主框架选项卡组件。",
+    "keywords": [
+      "layout-tabs",
+      "layout",
+      "tabs",
+      "antdp",
+      "antd"
+    ],
+    "date": "2024-03-28T14:42:44.537Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40antdp%2Flayout-tabs",
+      "homepage": "https://antdpro.github.io/antdp",
+      "repository": "https://github.com/antdpro/antdp/tree/master",
+      "bugs": "https://github.com/antdpro/antdp/issues"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
     "name": "@uiw/react-slider",
     "scope": "uiw",
     "version": "4.22.3",
@@ -8971,6 +8908,38 @@
     "author": {
       "name": "Kenny Wong",
       "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "@antdp/antdp-ui",
+    "scope": "antdp",
+    "version": "2.1.1",
+    "description": "基于antd封装的组件",
+    "keywords": [
+      "antdp-ui",
+      "antdp",
+      "antd"
+    ],
+    "date": "2024-03-28T14:42:06.708Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40antdp%2Fantdp-ui",
+      "homepage": "https://antdpro.github.io/antdp",
+      "repository": "https://github.com/antdpro/antdp/tree/master",
+      "bugs": "https://github.com/antdpro/antdp/issues"
     },
     "publisher": {
       "username": "wcjiang",
@@ -9308,73 +9277,6 @@
     ]
   },
   {
-    "name": "@antdp/basic-layouts",
-    "scope": "antdp",
-    "version": "2.1.1",
-    "description": "入口框架公共界面",
-    "keywords": [
-      "layouts",
-      "antdp",
-      "antd"
-    ],
-    "date": "2024-03-28T14:42:16.075Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40antdp%2Fbasic-layouts",
-      "homepage": "https://antdpro.github.io/antdp",
-      "repository": "https://github.com/antdpro/antdp/tree/master",
-      "bugs": "https://github.com/antdpro/antdp/issues"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "@antdp/config",
-    "scope": "antdp",
-    "version": "2.1.1",
-    "description": "路由配置",
-    "keywords": [
-      "config",
-      "antdp",
-      "umi"
-    ],
-    "date": "2024-03-28T14:42:20.833Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40antdp%2Fconfig",
-      "homepage": "https://antdpro.github.io/antdp",
-      "repository": "https://github.com/antdpro/antdp/tree/master",
-      "bugs": "https://github.com/antdpro/antdp/issues"
-    },
-    "author": {
-      "name": "antdp"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
     "name": "@uiw/react-progress",
     "scope": "uiw",
     "version": "4.22.3",
@@ -9552,38 +9454,6 @@
     "author": {
       "name": "Kenny Wong",
       "email": "wowohoo@qq.com"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "@antdp/page-loading",
-    "scope": "antdp",
-    "version": "2.1.1",
-    "description": "页面过渡动画组件。",
-    "keywords": [
-      "loading",
-      "antdp",
-      "antd"
-    ],
-    "date": "2024-03-28T14:42:49.340Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40antdp%2Fpage-loading",
-      "homepage": "https://antdpro.github.io/antdp",
-      "repository": "https://github.com/antdpro/antdp/tree/master",
-      "bugs": "https://github.com/antdpro/antdp/issues"
     },
     "publisher": {
       "username": "wcjiang",
@@ -10100,6 +9970,38 @@
     ]
   },
   {
+    "name": "@antdp/basic-layouts",
+    "scope": "antdp",
+    "version": "2.1.1",
+    "description": "入口框架公共界面",
+    "keywords": [
+      "layouts",
+      "antdp",
+      "antd"
+    ],
+    "date": "2024-03-28T14:42:16.075Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40antdp%2Fbasic-layouts",
+      "homepage": "https://antdpro.github.io/antdp",
+      "repository": "https://github.com/antdpro/antdp/tree/master",
+      "bugs": "https://github.com/antdpro/antdp/issues"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
     "name": "@uiw/react-divider",
     "scope": "uiw",
     "version": "4.22.3",
@@ -10283,6 +10185,41 @@
     "author": {
       "name": "Kenny Wong",
       "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "@antdp/config",
+    "scope": "antdp",
+    "version": "2.1.1",
+    "description": "路由配置",
+    "keywords": [
+      "config",
+      "antdp",
+      "umi"
+    ],
+    "date": "2024-03-28T14:42:20.833Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40antdp%2Fconfig",
+      "homepage": "https://antdpro.github.io/antdp",
+      "repository": "https://github.com/antdpro/antdp/tree/master",
+      "bugs": "https://github.com/antdpro/antdp/issues"
+    },
+    "author": {
+      "name": "antdp"
     },
     "publisher": {
       "username": "wcjiang",
@@ -10500,6 +10437,38 @@
     ]
   },
   {
+    "name": "@antdp/user-login",
+    "scope": "antdp",
+    "version": "2.1.1",
+    "description": "用户登录页面",
+    "keywords": [
+      "login",
+      "antdp",
+      "antd"
+    ],
+    "date": "2024-03-28T14:42:58.997Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40antdp%2Fuser-login",
+      "homepage": "https://antdpro.github.io/antdp",
+      "repository": "https://github.com/antdpro/antdp/tree/master",
+      "bugs": "https://github.com/antdpro/antdp/issues"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
     "name": "@uiw/react-search-tree",
     "scope": "uiw",
     "version": "4.22.3",
@@ -10574,6 +10543,38 @@
       "homepage": "https://uiwjs.github.io/#/components/carousel",
       "repository": "https://github.com/uiwjs/uiw",
       "bugs": "https://github.com/uiwjs/uiw/issues"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "@antdp/page-loading",
+    "scope": "antdp",
+    "version": "2.1.1",
+    "description": "页面过渡动画组件。",
+    "keywords": [
+      "loading",
+      "antdp",
+      "antd"
+    ],
+    "date": "2024-03-28T14:42:49.340Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40antdp%2Fpage-loading",
+      "homepage": "https://antdpro.github.io/antdp",
+      "repository": "https://github.com/antdpro/antdp/tree/master",
+      "bugs": "https://github.com/antdpro/antdp/issues"
     },
     "publisher": {
       "username": "wcjiang",
@@ -10811,6 +10812,38 @@
     ]
   },
   {
+    "name": "@antdp/dependencies",
+    "scope": "antdp",
+    "version": "2.1.1",
+    "description": "核心依赖包，在这里升级依赖，包含底层编译 umi，代码检测等",
+    "keywords": [
+      "dependencies",
+      "antdp",
+      "antd"
+    ],
+    "date": "2024-03-28T14:42:25.548Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40antdp%2Fdependencies",
+      "homepage": "https://antdpro.github.io/antdp",
+      "repository": "https://github.com/antdpro/antdp/tree/master",
+      "bugs": "https://github.com/antdpro/antdp/issues"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
     "name": "@react-login-page/page7",
     "scope": "react-login-page",
     "version": "1.0.4",
@@ -10902,38 +10935,6 @@
     ]
   },
   {
-    "name": "@antdp/dependencies",
-    "scope": "antdp",
-    "version": "2.1.1",
-    "description": "核心依赖包，在这里升级依赖，包含底层编译 umi，代码检测等",
-    "keywords": [
-      "dependencies",
-      "antdp",
-      "antd"
-    ],
-    "date": "2024-03-28T14:42:25.548Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40antdp%2Fdependencies",
-      "homepage": "https://antdpro.github.io/antdp",
-      "repository": "https://github.com/antdpro/antdp/tree/master",
-      "bugs": "https://github.com/antdpro/antdp/issues"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
     "name": "@uiw/codemirror-extensions-line-numbers-relative",
     "scope": "uiw",
     "version": "4.23.6",
@@ -10973,38 +10974,6 @@
     ]
   },
   {
-    "name": "monaco-editor-nginx",
-    "scope": "unscoped",
-    "version": "2.0.2",
-    "description": "Nginx language for Monaco Editor.",
-    "keywords": [
-      "monaco-editor",
-      "monaco-nginx",
-      "nginx",
-      "monaco",
-      "editor",
-      "editor-nginx",
-      "monaco-editor-nginx"
-    ],
-    "date": "2024-06-11T18:26:11.583Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/monaco-editor-nginx",
-      "homepage": "https://jaywcjlove.github.io/nginx-editor",
-      "repository": "https://github.com/jaywcjlove/nginx-editor",
-      "bugs": "https://github.com/jaywcjlove/nginx-editor/issues"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
     "name": "uglify-js-export",
     "scope": "unscoped",
     "version": "3.19.3",
@@ -11024,6 +10993,37 @@
     "author": {
       "name": "Kenny Wong",
       "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "monaco-editor-nginx",
+    "scope": "unscoped",
+    "version": "2.0.2",
+    "description": "Nginx language for Monaco Editor.",
+    "keywords": [
+      "monaco-editor",
+      "monaco-nginx",
+      "nginx",
+      "monaco",
+      "editor",
+      "editor-nginx",
+      "monaco-editor-nginx"
+    ],
+    "date": "2024-06-11T18:26:11.583Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/monaco-editor-nginx",
+      "homepage": "https://jaywcjlove.github.io/nginx-editor",
+      "repository": "https://github.com/jaywcjlove/nginx-editor"
     },
     "publisher": {
       "username": "wcjiang",
@@ -11404,38 +11404,6 @@
     ]
   },
   {
-    "name": "@antdp/fuzzy-query",
-    "scope": "antdp",
-    "version": "2.1.1",
-    "description": "基于antd封装的组件  模糊查询 自定义提示",
-    "keywords": [
-      "antdp-ui",
-      "antdp",
-      "antd"
-    ],
-    "date": "2024-03-28T14:42:01.845Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40antdp%2Ffuzzy-query",
-      "homepage": "https://antdpro.github.io/antdp",
-      "repository": "https://github.com/antdpro/antdp/tree/master",
-      "bugs": "https://github.com/antdpro/antdp/issues"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
     "name": "@react-login-page/page6",
     "scope": "react-login-page",
     "version": "1.0.4",
@@ -11479,55 +11447,21 @@
     ]
   },
   {
-    "name": "@antdp/request",
+    "name": "@antdp/fuzzy-query",
     "scope": "antdp",
     "version": "2.1.1",
-    "description": "@/antdp-request",
+    "description": "基于antd封装的组件  模糊查询 自定义提示",
     "keywords": [
-      "fullscreen",
+      "antdp-ui",
       "antdp",
       "antd"
     ],
-    "date": "2024-03-28T14:42:53.935Z",
+    "date": "2024-03-28T14:42:01.845Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/%40antdp%2Frequest",
+      "npm": "https://www.npmjs.com/package/%40antdp%2Ffuzzy-query",
       "homepage": "https://antdpro.github.io/antdp",
       "repository": "https://github.com/antdpro/antdp/tree/master",
       "bugs": "https://github.com/antdpro/antdp/issues"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "antdp",
-    "scope": "unscoped",
-    "version": "2.1.1",
-    "description": "Ant Design Project",
-    "keywords": [
-      "antdp",
-      "antd"
-    ],
-    "date": "2024-03-28T14:41:52.266Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/antdp",
-      "homepage": "https://antdpro.github.io/antdp",
-      "repository": "https://github.com/antdpro/antdp/tree/master",
-      "bugs": "https://github.com/antdpro/antdp/issues"
-    },
-    "author": {
-      "name": "jaywcjlove"
     },
     "publisher": {
       "username": "wcjiang",
@@ -11652,59 +11586,6 @@
     ]
   },
   {
-    "name": "@province-city-china/data",
-    "scope": "province-city-china",
-    "version": "8.5.8",
-    "description": "An util to query china province, city and district data. 中华人民共和国国家标准 GB/T 2260 行政区划代码。",
-    "keywords": [
-      "province",
-      "china",
-      "cn",
-      "city",
-      "GB",
-      "GB2260",
-      "中国",
-      "中华人民共和国",
-      "行政区划",
-      "省市",
-      "省市区",
-      "联动",
-      "省份",
-      "城市",
-      "县市",
-      "区县",
-      "乡镇",
-      "街道",
-      "村委会",
-      "居委会",
-      "省级",
-      "地级",
-      "县级",
-      "乡级",
-      "村级"
-    ],
-    "date": "2024-09-05T07:58:34.438Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40province-city-china%2Fdata",
-      "homepage": "https://github.com/uiwjs/province-city-china#readme",
-      "repository": "https://github.com/uiwjs/province-city-china"
-    },
-    "author": {
-      "name": "Kenny Wong",
-      "email": "wowohoo@qq.com"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
     "name": "@province-city-china/town",
     "scope": "province-city-china",
     "version": "8.5.8",
@@ -11759,6 +11640,59 @@
     ]
   },
   {
+    "name": "@province-city-china/data",
+    "scope": "province-city-china",
+    "version": "8.5.8",
+    "description": "An util to query china province, city and district data. 中华人民共和国国家标准 GB/T 2260 行政区划代码。",
+    "keywords": [
+      "province",
+      "china",
+      "cn",
+      "city",
+      "GB",
+      "GB2260",
+      "中国",
+      "中华人民共和国",
+      "行政区划",
+      "省市",
+      "省市区",
+      "联动",
+      "省份",
+      "城市",
+      "县市",
+      "区县",
+      "乡镇",
+      "街道",
+      "村委会",
+      "居委会",
+      "省级",
+      "地级",
+      "县级",
+      "乡级",
+      "村级"
+    ],
+    "date": "2024-09-05T07:58:34.438Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40province-city-china%2Fdata",
+      "homepage": "https://github.com/uiwjs/province-city-china#readme",
+      "repository": "https://github.com/uiwjs/province-city-china"
+    },
+    "author": {
+      "name": "Kenny Wong",
+      "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
     "name": "@react-login-page/page3",
     "scope": "react-login-page",
     "version": "1.0.4",
@@ -11785,6 +11719,38 @@
     "author": {
       "name": "kenny wong",
       "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "@antdp/request",
+    "scope": "antdp",
+    "version": "2.1.1",
+    "description": "@/antdp-request",
+    "keywords": [
+      "fullscreen",
+      "antdp",
+      "antd"
+    ],
+    "date": "2024-03-28T14:42:53.935Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40antdp%2Frequest",
+      "homepage": "https://antdpro.github.io/antdp",
+      "repository": "https://github.com/antdpro/antdp/tree/master",
+      "bugs": "https://github.com/antdpro/antdp/issues"
     },
     "publisher": {
       "username": "wcjiang",
@@ -12071,6 +12037,40 @@
     ]
   },
   {
+    "name": "antdp",
+    "scope": "unscoped",
+    "version": "2.1.1",
+    "description": "Ant Design Project",
+    "keywords": [
+      "antdp",
+      "antd"
+    ],
+    "date": "2024-03-28T14:41:52.266Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/antdp",
+      "homepage": "https://antdpro.github.io/antdp",
+      "repository": "https://github.com/antdpro/antdp/tree/master",
+      "bugs": "https://github.com/antdpro/antdp/issues"
+    },
+    "author": {
+      "name": "jaywcjlove"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
     "name": "@react-login-page/page8",
     "scope": "react-login-page",
     "version": "1.0.4",
@@ -12182,45 +12182,6 @@
       "email": "398188662@qq.com"
     },
     "maintainers": [
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "@uiw/react-heat-map",
-    "scope": "uiw",
-    "version": "2.2.2",
-    "description": "React component create calendar heatmap to visualize time series data, a la github contribution graph.",
-    "keywords": [
-      "react",
-      "heat-map",
-      "react-heat-map",
-      "uiw",
-      "uiwjs",
-      "code"
-    ],
-    "date": "2024-02-24T21:48:33.525Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40uiw%2Freact-heat-map",
-      "homepage": "https://uiwjs.github.io/react-heat-map/",
-      "repository": "https://github.com/uiwjs/react-heat-map",
-      "bugs": "https://github.com/uiwjs/react-heat-map/issues"
-    },
-    "author": {
-      "name": "kenny wang",
-      "email": "wowohoo@qq.com"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
       {
         "username": "wcjiang",
         "email": "398188662@qq.com"
@@ -12553,6 +12514,42 @@
     ]
   },
   {
+    "name": "hsl-matcher",
+    "scope": "unscoped",
+    "version": "1.2.4",
+    "description": "A module to find HSL(a) color syntax substrings in a string with their offsets and their color instance.",
+    "keywords": [
+      "hsl",
+      "hsla",
+      "hsl-matcher",
+      "hsla-matcher",
+      "matcher",
+      "color",
+      "css",
+      "javascript"
+    ],
+    "date": "2023-11-27T03:17:19.209Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/hsl-matcher",
+      "homepage": "https://jaywcjlove.github.io/hsl-matcher/",
+      "repository": "https://github.com/jaywcjlove/hsl-matcher",
+      "bugs": "https://github.com/jaywcjlove/hsl-matcher/issues"
+    },
+    "author": {
+      "name": "jaywcjlove"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
     "name": "@kkt/less-modules",
     "scope": "kkt",
     "version": "7.5.5",
@@ -12584,42 +12581,6 @@
         "username": "uiwjs",
         "email": "kennyiseeyou@gmail.com"
       },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "hsl-matcher",
-    "scope": "unscoped",
-    "version": "1.2.4",
-    "description": "A module to find HSL(a) color syntax substrings in a string with their offsets and their color instance.",
-    "keywords": [
-      "hsl",
-      "hsla",
-      "hsl-matcher",
-      "hsla-matcher",
-      "matcher",
-      "color",
-      "css",
-      "javascript"
-    ],
-    "date": "2023-11-27T03:17:19.209Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/hsl-matcher",
-      "homepage": "https://jaywcjlove.github.io/hsl-matcher/",
-      "repository": "https://github.com/jaywcjlove/hsl-matcher",
-      "bugs": "https://github.com/jaywcjlove/hsl-matcher/issues"
-    },
-    "author": {
-      "name": "jaywcjlove"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
       {
         "username": "wcjiang",
         "email": "398188662@qq.com"
@@ -12850,8 +12811,7 @@
     "links": {
       "npm": "https://www.npmjs.com/package/%40wcjiang%2Fwhereis",
       "homepage": "https://github.com/jaywcjlove/whereis.git",
-      "repository": "https://github.com/jaywcjlove/whereis",
-      "bugs": "https://github.com/jaywcjlove/whereis/issues"
+      "repository": "https://github.com/jaywcjlove/whereis"
     },
     "author": {
       "name": "kenny wong",
@@ -12869,29 +12829,28 @@
     ]
   },
   {
-    "name": "@kkt/plugin-pro-config",
-    "scope": "kkt",
-    "version": "1.1.5",
-    "description": "kktp plugins",
+    "name": "@uiw/react-heat-map",
+    "scope": "uiw",
+    "version": "2.3.0",
+    "description": "React component create calendar heatmap to visualize time series data, a la github contribution graph.",
     "keywords": [
-      "kkt",
-      "ncc",
-      "nodejs",
-      "cra",
-      "build-tools",
-      "create-react-app",
-      "zero-configuration",
-      "framework"
+      "react",
+      "heat-map",
+      "react-heat-map",
+      "uiw",
+      "uiwjs",
+      "code"
     ],
-    "date": "2023-05-29T04:46:50.965Z",
+    "date": "2024-11-08T10:35:14.776Z",
     "links": {
-      "npm": "https://www.npmjs.com/package/%40kkt%2Fplugin-pro-config",
-      "homepage": "https://github.com/kktjs/kkt-pro#readme",
-      "repository": "https://github.com/kktjs/kkt-pro"
+      "npm": "https://www.npmjs.com/package/%40uiw%2Freact-heat-map",
+      "homepage": "https://uiwjs.github.io/react-heat-map/",
+      "repository": "https://github.com/uiwjs/react-heat-map",
+      "bugs": "https://github.com/uiwjs/react-heat-map/issues"
     },
     "author": {
-      "name": "SunLxy",
-      "email": "1011771396@qq.com"
+      "name": "kenny wang",
+      "email": "wowohoo@qq.com"
     },
     "publisher": {
       "username": "wcjiang",
@@ -12932,6 +12891,46 @@
     "author": {
       "name": "kenny wong",
       "email": "wowohoo@qq.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
+    "name": "@kkt/plugin-pro-config",
+    "scope": "kkt",
+    "version": "1.1.5",
+    "description": "kktp plugins",
+    "keywords": [
+      "kkt",
+      "ncc",
+      "nodejs",
+      "cra",
+      "build-tools",
+      "create-react-app",
+      "zero-configuration",
+      "framework"
+    ],
+    "date": "2023-05-29T04:46:50.965Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40kkt%2Fplugin-pro-config",
+      "homepage": "https://github.com/kktjs/kkt-pro#readme",
+      "repository": "https://github.com/kktjs/kkt-pro"
+    },
+    "author": {
+      "name": "SunLxy",
+      "email": "1011771396@qq.com"
     },
     "publisher": {
       "username": "wcjiang",
@@ -13216,6 +13215,36 @@
     ]
   },
   {
+    "name": "@uiw-admin/utils",
+    "scope": "uiw-admin",
+    "version": "6.1.9",
+    "description": "> TODO: description",
+    "date": "2023-04-27T08:40:52.579Z",
+    "links": {
+      "npm": "https://www.npmjs.com/package/%40uiw-admin%2Futils",
+      "homepage": "https://github.com/uiwjs/uiw-admin#readme",
+      "repository": "https://github.com/uiwjs/uiw-admin"
+    },
+    "author": {
+      "name": "xingyuefeng",
+      "email": "15262870437@163.com"
+    },
+    "publisher": {
+      "username": "wcjiang",
+      "email": "398188662@qq.com"
+    },
+    "maintainers": [
+      {
+        "username": "uiwjs",
+        "email": "kennyiseeyou@gmail.com"
+      },
+      {
+        "username": "wcjiang",
+        "email": "398188662@qq.com"
+      }
+    ]
+  },
+  {
     "name": "@kkt/stylus-modules",
     "scope": "kkt",
     "version": "7.5.5",
@@ -13238,36 +13267,6 @@
       "name": "Kenny Wong",
       "email": "wowohoo@qq.com",
       "url": "https://github.com/jaywcjlove"
-    },
-    "publisher": {
-      "username": "wcjiang",
-      "email": "398188662@qq.com"
-    },
-    "maintainers": [
-      {
-        "username": "uiwjs",
-        "email": "kennyiseeyou@gmail.com"
-      },
-      {
-        "username": "wcjiang",
-        "email": "398188662@qq.com"
-      }
-    ]
-  },
-  {
-    "name": "@uiw-admin/utils",
-    "scope": "uiw-admin",
-    "version": "6.1.9",
-    "description": "> TODO: description",
-    "date": "2023-04-27T08:40:52.579Z",
-    "links": {
-      "npm": "https://www.npmjs.com/package/%40uiw-admin%2Futils",
-      "homepage": "https://github.com/uiwjs/uiw-admin#readme",
-      "repository": "https://github.com/uiwjs/uiw-admin"
-    },
-    "author": {
-      "name": "xingyuefeng",
-      "email": "15262870437@163.com"
     },
     "publisher": {
       "username": "wcjiang",
