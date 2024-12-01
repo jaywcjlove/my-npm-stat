@@ -139,7 +139,7 @@ async function main() {
       const stats = calculateStats(allDownloads);
       stats.topPackages = Object.entries(packageDownloads)
         .sort(([, a], [, b]) => b - a)
-        .slice(0, 200)
+        .slice(0, 500)
         .map(([name, downloads]) => ({ name, downloads }));
 
       /// 合并旧的年下载统计数据 -------- Start --------
