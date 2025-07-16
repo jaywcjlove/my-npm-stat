@@ -1,6 +1,5 @@
 {
   "dailyDownloads": {
-    "2024-07-16": 673274,
     "2024-07-17": 641502,
     "2024-07-18": 634467,
     "2024-07-19": 551935,
@@ -362,10 +361,12 @@
     "2025-07-10": 1485561,
     "2025-07-11": 1374122,
     "2025-07-12": 522908,
-    "2025-07-13": 491651
+    "2025-07-13": 491651,
+    "2025-07-14": 1415713,
+    "2025-07-15": 1516051
   },
   "weeklyDownloads": {
-    "2024-W29": 2766062,
+    "2024-W29": 2092788,
     "2024-W30": 3481537,
     "2024-W31": 3669530,
     "2024-W32": 3629940,
@@ -416,10 +417,11 @@
     "2025-W25": 8074317,
     "2025-W26": 8171727,
     "2025-W27": 8041125,
-    "2025-W28": 8436615
+    "2025-W28": 8436615,
+    "2025-W29": 2931764
   },
   "monthlyDownloads": {
-    "2024-7": 8287143,
+    "2024-7": 7613869,
     "2024-8": 16284612,
     "2024-9": 17428951,
     "2024-10": 19466187,
@@ -431,650 +433,650 @@
     "2025-4": 28001498,
     "2025-5": 31246436,
     "2025-6": 33576864,
-    "2025-7": 15014744
+    "2025-7": 17946508
   },
   "yearlyDownloads": {
     "2023": 17457615,
     "2024": 181966628,
-    "2025": 176925990
+    "2025": 179857754
   },
-  "totalDownloads": 274090657,
+  "totalDownloads": 276349147,
   "topPackages": [
     {
       "name": "@uiw/react-codemirror",
-      "downloads": 37740674
+      "downloads": 37982932
     },
     {
       "name": "@uiw/codemirror-extensions-basic-setup",
-      "downloads": 36955091
+      "downloads": 37193741
     },
     {
       "name": "hotkeys-js",
-      "downloads": 26125160
+      "downloads": 26269983
     },
     {
       "name": "@uiw/codemirror-themes",
-      "downloads": 14828724
+      "downloads": 14907598
     },
     {
       "name": "@uiw/react-markdown-preview",
-      "downloads": 7442335
+      "downloads": 7495541
     },
     {
       "name": "rehype-rewrite",
-      "downloads": 7254185
+      "downloads": 7316549
     },
     {
       "name": "rehype-attr",
-      "downloads": 6460351
+      "downloads": 6518391
     },
     {
       "name": "rehype-ignore",
-      "downloads": 6435420
+      "downloads": 6493454
     },
     {
       "name": "@uiw/react-md-editor",
-      "downloads": 6374492
+      "downloads": 6420052
     },
     {
       "name": "@uiw/copy-to-clipboard",
-      "downloads": 6119148
+      "downloads": 6174506
     },
     {
       "name": "@uiw/codemirror-theme-github",
-      "downloads": 3880068
+      "downloads": 3910977
     },
     {
       "name": "remark-github-blockquote-alert",
-      "downloads": 3797176
+      "downloads": 3843706
     },
     {
       "name": "colors-cli",
-      "downloads": 3589908
+      "downloads": 3606166
     },
     {
       "name": "@uiw/color-convert",
-      "downloads": 3505198
+      "downloads": 3537421
     },
     {
       "name": "@uiw/react-json-view",
-      "downloads": 3414343
+      "downloads": 3453946
     },
     {
       "name": "@uiw/react-drag-event-interactive",
-      "downloads": 3099218
+      "downloads": 3127762
     },
     {
       "name": "@uiw/react-color-alpha",
-      "downloads": 2995162
+      "downloads": 3023129
     },
     {
       "name": "@uiw/react-color-hue",
-      "downloads": 2859165
+      "downloads": 2886654
     },
     {
       "name": "@uiw/react-color-saturation",
-      "downloads": 2787671
+      "downloads": 2814760
     },
     {
       "name": "@uiw/codemirror-theme-material",
-      "downloads": 2712318
+      "downloads": 2730579
     },
     {
       "name": "@uiw/codemirror-theme-vscode",
-      "downloads": 2606851
+      "downloads": 2634205
     },
     {
       "name": "@uiw/react-color-swatch",
-      "downloads": 2380569
+      "downloads": 2404308
     },
     {
       "name": "@uiw/codemirror-extensions-langs",
-      "downloads": 2370478
+      "downloads": 2385428
     },
     {
       "name": "@uiw/react-color-editable-input",
-      "downloads": 2345488
+      "downloads": 2368303
     },
     {
       "name": "@uiw/react-color-editable-input-rgba",
-      "downloads": 2288773
+      "downloads": 2311141
     },
     {
       "name": "@uiw/react-color-sketch",
-      "downloads": 1902837
+      "downloads": 1922379
     },
     {
       "name": "@uiw/react-textarea-code-editor",
-      "downloads": 1845848
+      "downloads": 1858781
     },
     {
       "name": "@uiw/react-color-editable-input-hsla",
-      "downloads": 1718216
+      "downloads": 1733248
     },
     {
       "name": "@uiw/react-color-github",
-      "downloads": 1659205
+      "downloads": 1673868
     },
     {
       "name": "@uiw/react-color-chrome",
-      "downloads": 1644240
-    },
-    {
-      "name": "image2uri",
-      "downloads": 1631623
+      "downloads": 1658860
     },
     {
       "name": "@uiw/react-color-circle",
-      "downloads": 1631406
+      "downloads": 1645588
     },
     {
       "name": "@uiw/react-color-shade-slider",
-      "downloads": 1628378
+      "downloads": 1642406
+    },
+    {
+      "name": "image2uri",
+      "downloads": 1641307
     },
     {
       "name": "@uiw/react-color-colorful",
-      "downloads": 1616728
+      "downloads": 1631535
     },
     {
       "name": "@uiw/react-color-compact",
-      "downloads": 1608152
+      "downloads": 1621566
     },
     {
       "name": "@uiw/react-color-wheel",
-      "downloads": 1599777
+      "downloads": 1613732
     },
     {
       "name": "@uiw/codemirror-theme-tokyo-night",
-      "downloads": 1579437
-    },
-    {
-      "name": "@uiw/react-color-block",
-      "downloads": 1577501
+      "downloads": 1596995
     },
     {
       "name": "@uiw/react-color-material",
-      "downloads": 1577312
+      "downloads": 1591490
+    },
+    {
+      "name": "@uiw/react-color-block",
+      "downloads": 1591120
     },
     {
       "name": "svgtofont",
-      "downloads": 1530334
+      "downloads": 1539553
     },
     {
       "name": "@uiw/react-color",
-      "downloads": 1501091
+      "downloads": 1514557
     },
     {
       "name": "@uiw/react-color-slider",
-      "downloads": 1498258
+      "downloads": 1511687
     },
     {
       "name": "colors-named-hex",
-      "downloads": 1446714
+      "downloads": 1460611
     },
     {
       "name": "colors-named",
-      "downloads": 1445948
+      "downloads": 1459783
     },
     {
       "name": "@uiw/react-color-name",
-      "downloads": 1291695
+      "downloads": 1304962
     },
     {
       "name": "babel-plugin-transform-remove-imports",
-      "downloads": 1227383
+      "downloads": 1232002
     },
     {
       "name": "auto-config-loader",
-      "downloads": 1208376
+      "downloads": 1217206
     },
     {
       "name": "@uiw/codemirror-theme-dracula",
-      "downloads": 1136861
+      "downloads": 1150653
     },
     {
       "name": "cookiejs",
-      "downloads": 1064750
+      "downloads": 1070585
     },
     {
       "name": "@uiw/codemirror-theme-sublime",
-      "downloads": 1032473
+      "downloads": 1045651
     },
     {
       "name": "react-hot-keys",
-      "downloads": 911894
+      "downloads": 914930
     },
     {
       "name": "@uiw/codemirror-theme-duotone",
-      "downloads": 897575
+      "downloads": 908898
     },
     {
       "name": "@uiw/codemirror-theme-xcode",
-      "downloads": 882942
+      "downloads": 895747
     },
     {
       "name": "@uiw/codemirror-theme-okaidia",
-      "downloads": 850054
+      "downloads": 862442
     },
     {
       "name": "@uiw/codemirror-theme-basic",
-      "downloads": 849597
+      "downloads": 861175
     },
     {
       "name": "@uiw/codemirror-theme-atomone",
-      "downloads": 834300
+      "downloads": 844530
     },
     {
       "name": "@uiw/codemirror-theme-eclipse",
-      "downloads": 825679
+      "downloads": 836757
     },
     {
       "name": "@uiw/codemirror-theme-bbedit",
-      "downloads": 787201
+      "downloads": 799612
     },
     {
       "name": "@uiw/codemirror-theme-androidstudio",
-      "downloads": 785999
+      "downloads": 796636
     },
     {
       "name": "@uiw/codemirror-theme-solarized",
-      "downloads": 770129
+      "downloads": 781639
     },
     {
       "name": "next-remove-imports",
-      "downloads": 767123
+      "downloads": 770223
     },
     {
       "name": "loading-cli",
-      "downloads": 744901
+      "downloads": 748922
     },
     {
       "name": "@uiw/codemirror-theme-nord",
-      "downloads": 718310
+      "downloads": 729326
     },
     {
       "name": "@uiw/codemirror-theme-copilot",
-      "downloads": 701845
+      "downloads": 712843
     },
     {
       "name": "@uiw/codemirror-theme-monokai",
-      "downloads": 698435
+      "downloads": 709378
     },
     {
       "name": "@uiw/codemirror-theme-tokyo-night-storm",
-      "downloads": 693713
+      "downloads": 704320
     },
     {
       "name": "@uiw/codemirror-theme-darcula",
-      "downloads": 692981
+      "downloads": 703532
     },
     {
       "name": "@uiw/codemirror-theme-gruvbox-dark",
-      "downloads": 688936
+      "downloads": 699536
     },
     {
       "name": "@uiw/codemirror-theme-quietlight",
-      "downloads": 687649
+      "downloads": 698741
     },
     {
       "name": "@uiw/codemirror-theme-monokai-dimmed",
-      "downloads": 686844
+      "downloads": 697648
     },
     {
       "name": "@uiw/codemirror-theme-noctis-lilac",
-      "downloads": 685331
+      "downloads": 696023
     },
     {
       "name": "@uiw/codemirror-theme-tokyo-night-day",
-      "downloads": 671831
+      "downloads": 682421
     },
     {
       "name": "@uiw/codemirror-theme-abcdef",
-      "downloads": 670180
+      "downloads": 680823
     },
     {
       "name": "@uiw/codemirror-theme-bespin",
-      "downloads": 666805
+      "downloads": 677501
     },
     {
       "name": "@uiw/codemirror-theme-aura",
-      "downloads": 662111
+      "downloads": 672653
     },
     {
       "name": "@uiw/codemirror-themes-all",
-      "downloads": 654014
+      "downloads": 664537
     },
     {
       "name": "@uiw/codemirror-theme-kimbie",
-      "downloads": 636385
+      "downloads": 646595
     },
     {
       "name": "@uiw/codemirror-theme-white",
-      "downloads": 629926
+      "downloads": 640167
     },
     {
       "name": "@uiw/codemirror-theme-red",
-      "downloads": 627795
+      "downloads": 638077
     },
     {
       "name": "@uiw/codemirror-theme-abyss",
-      "downloads": 620564
+      "downloads": 630730
     },
     {
       "name": "@uiw/codemirror-theme-console",
-      "downloads": 620067
+      "downloads": 630394
     },
     {
       "name": "@uiw/codemirror-theme-andromeda",
-      "downloads": 619946
+      "downloads": 630153
     },
     {
       "name": "@uiw/codemirror-theme-tomorrow-night-blue",
-      "downloads": 616982
+      "downloads": 627148
     },
     {
       "name": "rehype-video",
-      "downloads": 510440
+      "downloads": 514002
     },
     {
       "name": "local-ip-url",
-      "downloads": 478634
+      "downloads": 480502
     },
     {
       "name": "mocker-api",
-      "downloads": 464867
+      "downloads": 466499
     },
     {
       "name": "react-codemirror-merge",
-      "downloads": 424223
+      "downloads": 430574
     },
     {
       "name": "@uiw/codemirror-extensions-events",
-      "downloads": 407699
-    },
-    {
-      "name": "@uiw/react-split",
-      "downloads": 369981
+      "downloads": 409590
     },
     {
       "name": "@tsbb/copy-template-dir",
-      "downloads": 367737
+      "downloads": 371496
+    },
+    {
+      "name": "@uiw/react-split",
+      "downloads": 371447
     },
     {
       "name": "@uiw/react-markdown-editor",
-      "downloads": 316729
+      "downloads": 318462
     },
     {
       "name": "@uiw/codemirror-extensions-color",
-      "downloads": 264022
+      "downloads": 265702
     },
     {
       "name": "@uiw/react-heat-map",
-      "downloads": 253394
+      "downloads": 256458
     },
     {
       "name": "linux-command",
-      "downloads": 216281
+      "downloads": 217936
     },
     {
       "name": "hsl-matcher",
-      "downloads": 202334
+      "downloads": 203429
     },
     {
       "name": "@wcj/markdown-to-html",
-      "downloads": 197512
+      "downloads": 198527
     },
     {
       "name": "coverage-badges-cli",
-      "downloads": 179257
+      "downloads": 184449
     },
     {
       "name": "storejs",
-      "downloads": 176424
+      "downloads": 177102
     },
     {
       "name": "@uiw/react-baidu-map",
-      "downloads": 161577
+      "downloads": 163052
     },
     {
       "name": "@uiw/react-baidu-map-types",
-      "downloads": 150348
+      "downloads": 151816
     },
     {
       "name": "@uiw/react-baidu-map-utils",
-      "downloads": 150239
+      "downloads": 151717
     },
     {
       "name": "@uiw/react-baidu-map-map",
-      "downloads": 150151
+      "downloads": 151631
     },
     {
       "name": "@uiw/react-baidu-map-api-loader",
-      "downloads": 149996
+      "downloads": 151463
     },
     {
       "name": "@uiw/react-baidu-map-control",
-      "downloads": 149539
+      "downloads": 151006
     },
     {
       "name": "@uiw/react-baidu-map-polyline",
-      "downloads": 149525
+      "downloads": 150996
     },
     {
       "name": "@uiw/react-baidu-map-type-control",
-      "downloads": 149466
-    },
-    {
-      "name": "@uiw/react-baidu-map-tile-layer",
-      "downloads": 149456
+      "downloads": 150936
     },
     {
       "name": "@uiw/react-baidu-map-panorama-control",
-      "downloads": 149455
+      "downloads": 150930
     },
     {
-      "name": "@uiw/react-baidu-map-scale-control",
-      "downloads": 149420
+      "name": "@uiw/react-baidu-map-tile-layer",
+      "downloads": 150920
     },
     {
       "name": "@uiw/react-baidu-map-navigation-control",
-      "downloads": 149419
+      "downloads": 150897
     },
     {
-      "name": "@uiw/react-baidu-map-copyright-control",
-      "downloads": 149401
-    },
-    {
-      "name": "@uiw/react-baidu-map-point-collection",
-      "downloads": 149394
+      "name": "@uiw/react-baidu-map-scale-control",
+      "downloads": 150896
     },
     {
       "name": "@uiw/react-baidu-map-custom-overlay",
-      "downloads": 149394
+      "downloads": 150876
     },
     {
-      "name": "@uiw/react-baidu-map-circle",
-      "downloads": 149378
+      "name": "@uiw/react-baidu-map-copyright-control",
+      "downloads": 150874
     },
     {
-      "name": "@uiw/react-baidu-map-ground-overlay",
-      "downloads": 149364
+      "name": "@uiw/react-baidu-map-point-collection",
+      "downloads": 150869
     },
     {
       "name": "@uiw/react-baidu-map-with-map",
-      "downloads": 149364
+      "downloads": 150849
     },
     {
-      "name": "@uiw/react-baidu-map-require-script",
-      "downloads": 149353
+      "name": "@uiw/react-baidu-map-circle",
+      "downloads": 150848
+    },
+    {
+      "name": "@uiw/react-baidu-map-ground-overlay",
+      "downloads": 150841
     },
     {
       "name": "@uiw/react-baidu-map-drawing-manager",
-      "downloads": 149339
+      "downloads": 150821
+    },
+    {
+      "name": "@uiw/react-baidu-map-require-script",
+      "downloads": 150818
     },
     {
       "name": "@uiw/react-baidu-map-info-window",
-      "downloads": 149329
+      "downloads": 150802
     },
     {
       "name": "@uiw/react-baidu-map-overview-map-control",
-      "downloads": 149307
+      "downloads": 150779
     },
     {
       "name": "@uiw/react-baidu-map-polygon",
-      "downloads": 149289
+      "downloads": 150771
     },
     {
       "name": "@uiw/react-baidu-map-marker",
-      "downloads": 148920
+      "downloads": 150385
     },
     {
       "name": "@uiw/react-baidu-map-curve-line",
-      "downloads": 148486
-    },
-    {
-      "name": "@uiw/react-baidu-map-label",
-      "downloads": 148446
+      "downloads": 149965
     },
     {
       "name": "@uiw/react-baidu-map-geolocation-control",
-      "downloads": 148433
+      "downloads": 149911
+    },
+    {
+      "name": "@uiw/react-baidu-map-label",
+      "downloads": 149908
     },
     {
       "name": "@wcj/github-rank",
-      "downloads": 136173
+      "downloads": 135425
     },
     {
       "name": "@wcj/html-to-markdown",
-      "downloads": 131373
+      "downloads": 132013
     },
     {
       "name": "@uiw/codemirror-extensions-hyper-link",
-      "downloads": 109802
+      "downloads": 111388
     },
     {
       "name": "@uiw/github-corners",
-      "downloads": 107376
+      "downloads": 107864
     },
     {
       "name": "markdown-to-html-cli",
-      "downloads": 106342
+      "downloads": 106728
     },
     {
       "name": "@uiw/bootstrap-icons",
-      "downloads": 104417
+      "downloads": 104547
     },
     {
       "name": "@wcj/markdown-style",
-      "downloads": 104136
+      "downloads": 104501
     },
     {
       "name": "@uiw/react-signature",
-      "downloads": 93533
+      "downloads": 94723
     },
     {
       "name": "@wcj/generate-password",
-      "downloads": 82193
+      "downloads": 82469
     },
     {
       "name": "@uiw/react-monacoeditor",
-      "downloads": 81146
+      "downloads": 80948
     },
     {
       "name": "react-keywords",
-      "downloads": 68660
+      "downloads": 69059
     },
     {
       "name": "@uiw/watermark.js",
-      "downloads": 66375
-    },
-    {
-      "name": "@uiw/icons",
-      "downloads": 65326
+      "downloads": 66734
     },
     {
       "name": "@uiw/react-watermark",
-      "downloads": 64926
+      "downloads": 65292
+    },
+    {
+      "name": "@uiw/icons",
+      "downloads": 65052
     },
     {
       "name": "@uiw/utils",
-      "downloads": 64639
+      "downloads": 64894
     },
     {
       "name": "recursive-readdir-files",
-      "downloads": 51998
+      "downloads": 52111
     },
     {
       "name": "@uiw/react-only-when",
-      "downloads": 51978
+      "downloads": 51988
     },
     {
       "name": "@icongo/tb",
-      "downloads": 51767
+      "downloads": 51768
     },
     {
       "name": "@icongo/ix",
-      "downloads": 51140
+      "downloads": 51143
     },
     {
       "name": "@uiw/react-iframe",
-      "downloads": 49519
+      "downloads": 49693
     },
     {
       "name": "@wcj/html-to-markdown-cli",
-      "downloads": 45998
+      "downloads": 46029
     },
     {
       "name": "@uiw/react-shields",
-      "downloads": 40825
+      "downloads": 41188
     },
     {
       "name": "@uiw/codemirror-extensions-mentions",
-      "downloads": 40746
+      "downloads": 40934
     },
     {
       "name": "@uiw/codemirror-extensions-classname",
-      "downloads": 37561
+      "downloads": 37916
     },
     {
       "name": "@uiw/react-affix",
-      "downloads": 35130
+      "downloads": 35387
     },
     {
       "name": "@uiw/react-overlay-trigger",
-      "downloads": 34181
+      "downloads": 34493
     },
     {
       "name": "@uiw/react-portal",
-      "downloads": 33434
+      "downloads": 33678
     },
     {
       "name": "@uiw/react-overlay",
-      "downloads": 33414
+      "downloads": 33676
     },
     {
       "name": "@uiw/formatter",
-      "downloads": 31412
+      "downloads": 31491
     },
     {
       "name": "@uiw/react-tooltip",
-      "downloads": 29709
+      "downloads": 29936
     },
     {
       "name": "tsbb",
-      "downloads": 28477
+      "downloads": 28484
     },
     {
       "name": "@uiw/react-use-online",
-      "downloads": 27598
+      "downloads": 27641
     },
     {
       "name": "@icongo/pk",
-      "downloads": 27523
+      "downloads": 27526
     },
     {
       "name": "@icongo/bs",
-      "downloads": 25801
+      "downloads": 25802
     },
     {
       "name": "@icongo/gi",
@@ -1082,23 +1084,23 @@
     },
     {
       "name": "@icongo/cg",
-      "downloads": 25461
+      "downloads": 25463
     },
     {
       "name": "province-city-china",
-      "downloads": 25130
+      "downloads": 25158
     },
     {
       "name": "@icongo/la",
-      "downloads": 24980
+      "downloads": 24999
     },
     {
       "name": "ssr",
-      "downloads": 24273
+      "downloads": 24229
     },
     {
       "name": "uiw",
-      "downloads": 24152
+      "downloads": 24180
     },
     {
       "name": "@icongo/fa",
@@ -1106,547 +1108,547 @@
     },
     {
       "name": "@uiw/react-icon",
-      "downloads": 18620
+      "downloads": 18827
     },
     {
       "name": "@uiw/react-amap-map",
-      "downloads": 17557
-    },
-    {
-      "name": "@uiw/react-head",
-      "downloads": 17449
-    },
-    {
-      "name": "kkt",
-      "downloads": 17289
+      "downloads": 17590
     },
     {
       "name": "@uiw/react-button",
-      "downloads": 17217
+      "downloads": 17487
+    },
+    {
+      "name": "kkt",
+      "downloads": 17472
     },
     {
       "name": "@uiw/react-amap-types",
-      "downloads": 17208
+      "downloads": 17311
+    },
+    {
+      "name": "@uiw/react-head",
+      "downloads": 17285
     },
     {
       "name": "@uiw/react-month-picker",
-      "downloads": 16144
+      "downloads": 16352
     },
     {
       "name": "@uiw/react-amap-utils",
-      "downloads": 16120
+      "downloads": 16141
     },
     {
       "name": "@uiw/react-popover",
-      "downloads": 15841
+      "downloads": 16064
     },
     {
       "name": "@uiw/react-amap",
-      "downloads": 15712
+      "downloads": 15745
     },
     {
       "name": "@uiw/react-time-picker",
-      "downloads": 15499
+      "downloads": 15719
     },
     {
       "name": "@uiw/react-input",
-      "downloads": 15445
+      "downloads": 15665
     },
     {
       "name": "refs-cli",
-      "downloads": 15288
-    },
-    {
-      "name": "react-login-page",
-      "downloads": 15140
+      "downloads": 15307
     },
     {
       "name": "@uiw/react-copy-to-clipboard",
-      "downloads": 15101
+      "downloads": 15295
+    },
+    {
+      "name": "react-login-page",
+      "downloads": 15273
     },
     {
       "name": "@uiw/react-date-picker",
-      "downloads": 15030
-    },
-    {
-      "name": "@uiw/react-amap-marker",
-      "downloads": 14966
+      "downloads": 15236
     },
     {
       "name": "@uiw/react-amap-hawk-eye-control",
-      "downloads": 14963
+      "downloads": 15034
+    },
+    {
+      "name": "@uiw/react-amap-marker",
+      "downloads": 15031
     },
     {
       "name": "@uiw/react-amap-info-window",
-      "downloads": 14956
+      "downloads": 15006
     },
     {
       "name": "@uiw/react-amap-polyline",
-      "downloads": 14953
+      "downloads": 14972
     },
     {
       "name": "@uiw/react-amap-map-type-control",
-      "downloads": 14798
+      "downloads": 14862
     },
     {
       "name": "@uiw/react-amap-ellipse",
-      "downloads": 14725
+      "downloads": 14784
     },
     {
       "name": "@uiw/react-amap-circle-marker",
-      "downloads": 14724
+      "downloads": 14781
     },
     {
       "name": "@uiw/react-amap-text",
-      "downloads": 14700
+      "downloads": 14770
     },
     {
       "name": "@uiw/react-amap-rectangle",
-      "downloads": 14657
+      "downloads": 14728
     },
     {
       "name": "@uiw/react-amap-scale-control",
-      "downloads": 14638
+      "downloads": 14710
     },
     {
       "name": "@uiw/react-amap-polygon",
-      "downloads": 14624
-    },
-    {
-      "name": "@uiw/react-amap-bezier-curve",
-      "downloads": 14622
+      "downloads": 14667
     },
     {
       "name": "@uiw/react-amap-circle",
-      "downloads": 14587
+      "downloads": 14659
     },
     {
       "name": "@uiw/react-amap-tool-bar-control",
-      "downloads": 14582
+      "downloads": 14657
     },
     {
-      "name": "@uiw/react-amap-auto-complete",
-      "downloads": 14565
+      "name": "@uiw/react-amap-bezier-curve",
+      "downloads": 14655
     },
     {
       "name": "@uiw/react-amap-require-script",
-      "downloads": 14559
+      "downloads": 14632
     },
     {
       "name": "@uiw/react-amap-context-menu",
-      "downloads": 14556
+      "downloads": 14629
+    },
+    {
+      "name": "@uiw/react-amap-auto-complete",
+      "downloads": 14601
     },
     {
       "name": "@uiw/react-amap-polygon-editor",
-      "downloads": 14522
+      "downloads": 14584
     },
     {
       "name": "@uiw/react-amap-weather",
-      "downloads": 14485
+      "downloads": 14529
     },
     {
       "name": "@uiw/react-amap-api-loader",
-      "downloads": 14443
+      "downloads": 14516
     },
     {
       "name": "@uiw/react-auto-link",
-      "downloads": 14435
-    },
-    {
-      "name": "@uiw/react-amap-geolocation",
-      "downloads": 14420
+      "downloads": 14501
     },
     {
       "name": "@uiw/react-native",
-      "downloads": 14408
+      "downloads": 14462
+    },
+    {
+      "name": "@uiw/react-amap-geolocation",
+      "downloads": 14457
     },
     {
       "name": "@uiw/file-icons",
-      "downloads": 14314
+      "downloads": 14373
     },
     {
       "name": "@uiw/react-amap-mass-marks",
-      "downloads": 14274
+      "downloads": 14317
     },
     {
       "name": "@uiw/react-amap-control-bar-control",
-      "downloads": 14238
+      "downloads": 14277
     },
     {
       "name": "@uiw/react-select",
-      "downloads": 13977
+      "downloads": 14161
     },
     {
       "name": "@uiw/react-prismjs",
-      "downloads": 13818
-    },
-    {
-      "name": "@uiw/react-descriptions",
-      "downloads": 13318
+      "downloads": 13801
     },
     {
       "name": "@uiw/react-loader",
-      "downloads": 13285
+      "downloads": 13524
+    },
+    {
+      "name": "@uiw/react-descriptions",
+      "downloads": 13505
     },
     {
       "name": "@uiw/react-date-input",
-      "downloads": 13019
+      "downloads": 13195
     },
     {
       "name": "@uiw/react-steps",
-      "downloads": 12999
-    },
-    {
-      "name": "@uiw/react-amap-label-marker",
-      "downloads": 12941
+      "downloads": 13181
     },
     {
       "name": "@uiw/react-menu",
-      "downloads": 12908
+      "downloads": 13088
     },
     {
-      "name": "@uiw/react-amap-tile-layer",
-      "downloads": 12884
-    },
-    {
-      "name": "@uiw/react-amap-mouse-tool",
-      "downloads": 12852
-    },
-    {
-      "name": "@uiw/react-amap-poly-editor",
-      "downloads": 12782
+      "name": "@uiw/react-amap-label-marker",
+      "downloads": 12996
     },
     {
       "name": "@uiw/react-tag",
-      "downloads": 12774
+      "downloads": 12955
     },
     {
-      "name": "magic-input",
-      "downloads": 12733
+      "name": "@uiw/react-amap-tile-layer",
+      "downloads": 12920
     },
     {
-      "name": "@uiw/react-amap-polyline-editor",
-      "downloads": 12697
+      "name": "@uiw/react-amap-mouse-tool",
+      "downloads": 12886
     },
     {
       "name": "@uiw/react-button-group",
-      "downloads": 12683
+      "downloads": 12864
     },
     {
       "name": "@uiw/react-dropdown",
-      "downloads": 12598
+      "downloads": 12838
+    },
+    {
+      "name": "@uiw/react-amap-poly-editor",
+      "downloads": 12818
+    },
+    {
+      "name": "@uiw/react-amap-polyline-editor",
+      "downloads": 12744
     },
     {
       "name": "@uiw/react-file-input",
-      "downloads": 12540
-    },
-    {
-      "name": "@uiw/react-tabs",
-      "downloads": 12522
-    },
-    {
-      "name": "@uiw/react-breadcrumb",
-      "downloads": 12497
+      "downloads": 12728
     },
     {
       "name": "@uiw/react-form",
-      "downloads": 12469
+      "downloads": 12712
     },
     {
-      "name": "@uiw/react-drawer",
-      "downloads": 12455
+      "name": "@uiw/react-tabs",
+      "downloads": 12704
     },
     {
       "name": "@uiw/react-badge",
-      "downloads": 12450
+      "downloads": 12686
     },
     {
       "name": "@uiw/react-avatar",
-      "downloads": 12445
+      "downloads": 12685
+    },
+    {
+      "name": "@uiw/react-breadcrumb",
+      "downloads": 12682
+    },
+    {
+      "name": "@uiw/react-drawer",
+      "downloads": 12643
+    },
+    {
+      "name": "magic-input",
+      "downloads": 12605
     },
     {
       "name": "@uiw/react-back-top",
-      "downloads": 12413
+      "downloads": 12596
     },
     {
       "name": "@uiw/react-tree",
-      "downloads": 12408
+      "downloads": 12594
     },
     {
       "name": "@uiw/react-notify",
-      "downloads": 12357
+      "downloads": 12593
     },
     {
       "name": "@uiw/react-collapse",
-      "downloads": 12304
+      "downloads": 12491
     },
     {
       "name": "@uiw/react-calendar",
-      "downloads": 12288
-    },
-    {
-      "name": "@uiw/react-rate",
-      "downloads": 12260
-    },
-    {
-      "name": "@uiw/react-alert",
-      "downloads": 12258
+      "downloads": 12474
     },
     {
       "name": "@uiw/react-search-select",
-      "downloads": 12229
+      "downloads": 12460
+    },
+    {
+      "name": "@uiw/react-alert",
+      "downloads": 12452
+    },
+    {
+      "name": "@uiw/react-rate",
+      "downloads": 12441
     },
     {
       "name": "@uiw/react-table",
-      "downloads": 12213
+      "downloads": 12432
     },
     {
       "name": "@uiw/react-modal",
-      "downloads": 12194
+      "downloads": 12428
     },
     {
       "name": "@uiw/react-card",
-      "downloads": 12190
+      "downloads": 12426
     },
     {
       "name": "@uiw/react-radio",
-      "downloads": 12185
+      "downloads": 12414
     },
     {
       "name": "@uiw/react-switch",
-      "downloads": 12114
-    },
-    {
-      "name": "@uiw/react-checkbox",
-      "downloads": 12071
+      "downloads": 12360
     },
     {
       "name": "@uiw/react-slider",
-      "downloads": 12068
+      "downloads": 12318
     },
     {
       "name": "@uiw/react-textarea",
-      "downloads": 12065
+      "downloads": 12288
     },
     {
       "name": "@uiw/react-tree-checked",
-      "downloads": 12047
+      "downloads": 12272
     },
     {
-      "name": "@uiw/react-progress",
-      "downloads": 12028
+      "name": "@uiw/react-checkbox",
+      "downloads": 12271
     },
     {
       "name": "@uiw/react-grid",
-      "downloads": 12015
+      "downloads": 12252
+    },
+    {
+      "name": "@uiw/react-progress",
+      "downloads": 12215
     },
     {
       "name": "@uiw/react-message",
-      "downloads": 11977
+      "downloads": 12158
     },
     {
       "name": "@uiw/react-pin-code",
-      "downloads": 11973
-    },
-    {
-      "name": "@uiw/react-divider",
-      "downloads": 11887
+      "downloads": 12135
     },
     {
       "name": "@uiw/react-pagination",
-      "downloads": 11869
+      "downloads": 12099
     },
     {
-      "name": "generated-badges",
-      "downloads": 11869
+      "name": "@uiw/react-divider",
+      "downloads": 12090
     },
     {
       "name": "@uiw/react-list",
-      "downloads": 11705
+      "downloads": 11939
+    },
+    {
+      "name": "generated-badges",
+      "downloads": 11870
     },
     {
       "name": "@wcj/dark-mode",
-      "downloads": 11469
+      "downloads": 11593
     },
     {
       "name": "@uiw/react-empty",
-      "downloads": 11196
+      "downloads": 11293
     },
     {
       "name": "@wcjiang/notify",
-      "downloads": 11114
+      "downloads": 11149
     },
     {
       "name": "@uiw/react-layout",
-      "downloads": 10485
+      "downloads": 10566
     },
     {
       "name": "@uiw/codemirror-extensions-line-numbers-relative",
-      "downloads": 10348
+      "downloads": 10374
     },
     {
       "name": "@icongo/li",
       "downloads": 9931
     },
     {
-      "name": "react-dynamic-loadable",
-      "downloads": 9850
-    },
-    {
       "name": "idoc",
-      "downloads": 9841
+      "downloads": 9918
     },
     {
-      "name": "@tsbb/babel",
-      "downloads": 9764
+      "name": "react-dynamic-loadable",
+      "downloads": 9848
     },
     {
       "name": "@uiw/codemirror-extensions-zebra-stripes",
-      "downloads": 9723
+      "downloads": 9809
+    },
+    {
+      "name": "@tsbb/babel",
+      "downloads": 9772
     },
     {
       "name": "@uiw/react-search-tree",
-      "downloads": 9507
-    },
-    {
-      "name": "@uiw/doc",
-      "downloads": 9431
+      "downloads": 9640
     },
     {
       "name": "@uiw/react-cascader",
-      "downloads": 9409
+      "downloads": 9482
     },
     {
-      "name": "@tsbb/typescript",
-      "downloads": 9401
+      "name": "@uiw/doc",
+      "downloads": 9436
     },
     {
       "name": "@uiw/react-carousel",
-      "downloads": 9347
+      "downloads": 9418
     },
     {
-      "name": "compile-less-cli",
-      "downloads": 9287
+      "name": "@tsbb/typescript",
+      "downloads": 9407
     },
     {
       "name": "@tsbb/core",
-      "downloads": 9281
+      "downloads": 9290
     },
     {
-      "name": "@tsbb/jest",
-      "downloads": 9178
+      "name": "compile-less-cli",
+      "downloads": 9278
     },
     {
       "name": "@uiw/react-transfer",
-      "downloads": 9148
+      "downloads": 9224
+    },
+    {
+      "name": "@tsbb/jest",
+      "downloads": 9188
     },
     {
       "name": "validator.tool",
-      "downloads": 9130
+      "downloads": 9097
     },
     {
       "name": "uglify-js-export",
-      "downloads": 8770
+      "downloads": 8766
     },
     {
       "name": "@icongo/vsc",
-      "downloads": 8626
-    },
-    {
-      "name": "@icongo/ri",
-      "downloads": 8467
+      "downloads": 8627
     },
     {
       "name": "@uiw/react-tabs-draggable",
-      "downloads": 8467
+      "downloads": 8476
+    },
+    {
+      "name": "@icongo/ri",
+      "downloads": 8469
     },
     {
       "name": "@province-city-china/types",
-      "downloads": 8327
+      "downloads": 8397
     },
     {
       "name": "@icongo/pp",
-      "downloads": 8000
+      "downloads": 8001
     },
     {
       "name": "chinese-poetry",
-      "downloads": 7758
+      "downloads": 7756
     },
     {
       "name": "@kkt/less-modules",
-      "downloads": 7527
+      "downloads": 7660
     },
     {
       "name": "code-example",
-      "downloads": 7328
-    },
-    {
-      "name": "@uiw/react-code-preview",
-      "downloads": 6980
+      "downloads": 7299
     },
     {
       "name": "@kkt/scope-plugin-options",
-      "downloads": 6930
+      "downloads": 7064
     },
     {
       "name": "@uiw/react-github-corners",
-      "downloads": 6928
+      "downloads": 7053
+    },
+    {
+      "name": "@uiw/react-code-preview",
+      "downloads": 6961
     },
     {
       "name": "@kkt/raw-modules",
-      "downloads": 6764
+      "downloads": 6897
     },
     {
       "name": "@uivjs/vue-markdown-preview",
-      "downloads": 6578
+      "downloads": 6662
     },
     {
       "name": "chmod-cli",
-      "downloads": 6428
+      "downloads": 6442
     },
     {
       "name": "uiw-iconfont",
-      "downloads": 5965
+      "downloads": 5874
     },
     {
       "name": "@uiw/react-native-alipay",
-      "downloads": 4929
-    },
-    {
-      "name": "@icongo/ii",
-      "downloads": 4815
+      "downloads": 4950
     },
     {
       "name": "@kkt/resolve-fallback",
-      "downloads": 4754
+      "downloads": 4837
+    },
+    {
+      "name": "@icongo/ii",
+      "downloads": 4817
     },
     {
       "name": "@uiw/react-back-to-top",
-      "downloads": 4537
+      "downloads": 4530
     },
     {
       "name": "@icongo/ps",
-      "downloads": 4521
-    },
-    {
-      "name": "@antdp/basic-layouts",
-      "downloads": 4447
+      "downloads": 4524
     },
     {
       "name": "bannerjs",
-      "downloads": 4365
+      "downloads": 4471
+    },
+    {
+      "name": "@antdp/basic-layouts",
+      "downloads": 4445
     },
     {
       "name": "@uiw/react-codesandbox",
-      "downloads": 4340
+      "downloads": 4309
     },
     {
       "name": "@uiw/react-codepen",
-      "downloads": 4210
+      "downloads": 4189
     },
     {
       "name": "@antdp/dependencies",
-      "downloads": 4045
+      "downloads": 4044
     },
     {
       "name": "@antdp/config",
@@ -1654,15 +1656,15 @@
     },
     {
       "name": "@antdp/authorized",
-      "downloads": 3980
+      "downloads": 3983
     },
     {
       "name": "@wcj/ejs-cli",
-      "downloads": 3950
+      "downloads": 3942
     },
     {
       "name": "parcel-transformer-markdown",
-      "downloads": 3937
+      "downloads": 3938
     },
     {
       "name": "@antdp/user-login",
@@ -1670,95 +1672,95 @@
     },
     {
       "name": "@kkt/ncc",
-      "downloads": 3701
+      "downloads": 3710
     },
     {
       "name": "@uiw/react-native-doc",
-      "downloads": 3568
+      "downloads": 3582
     },
     {
       "name": "create-tsbb",
-      "downloads": 3563
-    },
-    {
-      "name": "@antdp/layout-tabs",
-      "downloads": 3509
+      "downloads": 3545
     },
     {
       "name": "react-code-preview-layout",
-      "downloads": 3499
+      "downloads": 3511
+    },
+    {
+      "name": "@antdp/layout-tabs",
+      "downloads": 3508
     },
     {
       "name": "@antdp/fullscreen",
-      "downloads": 3421
+      "downloads": 3422
     },
     {
       "name": "monaco-editor-nginx",
-      "downloads": 3355
+      "downloads": 3405
     },
     {
       "name": "@antdp/page-loading",
-      "downloads": 3138
+      "downloads": 3137
     },
     {
       "name": "markdown-react-code-preview-loader",
-      "downloads": 3123
-    },
-    {
-      "name": "translater.js",
-      "downloads": 3106
+      "downloads": 3129
     },
     {
       "name": "@antdp/document-title",
-      "downloads": 3094
+      "downloads": 3092
+    },
+    {
+      "name": "translater.js",
+      "downloads": 3079
     },
     {
       "name": "babel-plugin-transform-replace-export-default",
-      "downloads": 2950
+      "downloads": 2953
     },
     {
       "name": "@tsbb/babel-preset-tsbb",
-      "downloads": 2749
+      "downloads": 2773
     },
     {
       "name": "open-browsers",
-      "downloads": 2710
-    },
-    {
-      "name": "@uiw/react-use-colorscheme",
-      "downloads": 2615
-    },
-    {
-      "name": "@icongo/wi",
-      "downloads": 2541
+      "downloads": 2706
     },
     {
       "name": "@react-login-page/base",
-      "downloads": 2518
+      "downloads": 2638
+    },
+    {
+      "name": "@uiw/react-use-colorscheme",
+      "downloads": 2632
+    },
+    {
+      "name": "@icongo/wi",
+      "downloads": 2543
     },
     {
       "name": "console-emojis",
-      "downloads": 2484
+      "downloads": 2480
     },
     {
       "name": "@uiw-admin/components",
-      "downloads": 2424
+      "downloads": 2448
     },
     {
       "name": "antdp",
-      "downloads": 2402
+      "downloads": 2410
     },
     {
       "name": "@uiw-admin/router-control",
-      "downloads": 2282
-    },
-    {
-      "name": "@kkt/react-library",
-      "downloads": 2245
+      "downloads": 2289
     },
     {
       "name": "@uiw-admin/user-login",
-      "downloads": 2242
+      "downloads": 2278
+    },
+    {
+      "name": "@kkt/react-library",
+      "downloads": 2243
     },
     {
       "name": "@antdp/antdp-ui",
@@ -1766,107 +1768,107 @@
     },
     {
       "name": "@uiw-admin/document-title",
-      "downloads": 2162
+      "downloads": 2169
     },
     {
       "name": "uiw-admin",
-      "downloads": 2147
+      "downloads": 2144
     },
     {
       "name": "@uiw-admin/plugins",
-      "downloads": 2047
+      "downloads": 2079
     },
     {
       "name": "@react-login-page/page2",
-      "downloads": 2041
+      "downloads": 2055
     },
     {
       "name": "@uiw/react-markdown-preview-example",
-      "downloads": 2006
+      "downloads": 2015
     },
     {
       "name": "@uiw-admin/authorized",
-      "downloads": 1989
-    },
-    {
-      "name": "@uiw-admin/basic-layouts",
-      "downloads": 1969
+      "downloads": 2011
     },
     {
       "name": "typenexus",
-      "downloads": 1941
+      "downloads": 1994
+    },
+    {
+      "name": "@uiw-admin/basic-layouts",
+      "downloads": 1985
     },
     {
       "name": "@icongo/ji",
-      "downloads": 1934
+      "downloads": 1937
     },
     {
       "name": "@react-login-page/page3",
-      "downloads": 1922
-    },
-    {
-      "name": "webpack-manifest",
-      "downloads": 1903
+      "downloads": 1920
     },
     {
       "name": "@province-city-china/city",
-      "downloads": 1877
+      "downloads": 1883
     },
     {
-      "name": "@kkt/stylus-modules",
-      "downloads": 1869
-    },
-    {
-      "name": "@react-login-page/page9",
-      "downloads": 1851
-    },
-    {
-      "name": "@uiw-admin/config",
-      "downloads": 1849
+      "name": "webpack-manifest",
+      "downloads": 1871
     },
     {
       "name": "@uiw-admin/layout-tabs",
-      "downloads": 1838
+      "downloads": 1871
+    },
+    {
+      "name": "@kkt/stylus-modules",
+      "downloads": 1870
     },
     {
       "name": "@uiw-admin/exceptions",
-      "downloads": 1826
+      "downloads": 1867
+    },
+    {
+      "name": "@uiw-admin/config",
+      "downloads": 1850
+    },
+    {
+      "name": "@react-login-page/page9",
+      "downloads": 1848
     },
     {
       "name": "@province-city-china/province",
-      "downloads": 1810
+      "downloads": 1808
     },
     {
       "name": "awesome-mac",
-      "downloads": 1784
+      "downloads": 1776
     },
     {
       "name": "@react-login-page/page1",
-      "downloads": 1773
-    },
-    {
-      "name": "@uiw-admin/utils",
-      "downloads": 1751
-    },
-    {
-      "name": "@province-city-china/level",
-      "downloads": 1720
-    },
-    {
-      "name": "@uiw/reset.css",
-      "downloads": 1716
-    },
-    {
-      "name": "@uiw-admin/models",
-      "downloads": 1713
-    },
-    {
-      "name": "@kkt/loader-less",
-      "downloads": 1649
+      "downloads": 1776
     },
     {
       "name": "@uiw/react-mac-keyboard",
-      "downloads": 1631
+      "downloads": 1767
+    },
+    {
+      "name": "@province-city-china/level",
+      "downloads": 1757
+    },
+    {
+      "name": "@uiw-admin/utils",
+      "downloads": 1750
+    },
+    {
+      "name": "@uiw-admin/models",
+      "downloads": 1743
+    },
+    {
+      "name": "@uiw/reset.css",
+      "downloads": 1717
+    },
+    {
+      "name": "@kkt/loader-less",
+      "downloads": 1648
     },
     {
       "name": "@antdp/request",
@@ -1878,215 +1880,215 @@
     },
     {
       "name": "@react-login-page/page6",
-      "downloads": 1603
+      "downloads": 1602
     },
     {
       "name": "@uiw/react-native-template",
-      "downloads": 1572
-    },
-    {
-      "name": "@province-city-china/area",
-      "downloads": 1508
-    },
-    {
-      "name": "@antdp/hooks",
-      "downloads": 1497
+      "downloads": 1579
     },
     {
       "name": "create-uiw-admin",
+      "downloads": 1529
+    },
+    {
+      "name": "@province-city-china/area",
+      "downloads": 1507
+    },
+    {
+      "name": "@antdp/hooks",
       "downloads": 1495
     },
     {
       "name": "togscc",
-      "downloads": 1460
+      "downloads": 1459
     },
     {
       "name": "@icongo/ei",
-      "downloads": 1382
+      "downloads": 1384
     },
     {
       "name": "@icongo/ccp",
-      "downloads": 1371
+      "downloads": 1374
     },
     {
       "name": "@antdp/edit-table",
-      "downloads": 1369
+      "downloads": 1370
     },
     {
       "name": "parcel-plugin-markdown-string",
-      "downloads": 1347
+      "downloads": 1367
     },
     {
       "name": "@kkt/ssr",
-      "downloads": 1345
+      "downloads": 1347
     },
     {
       "name": "rdoc",
-      "downloads": 1331
+      "downloads": 1332
     },
     {
       "name": "webpack-hot-dev-clients",
-      "downloads": 1317
+      "downloads": 1318
     },
     {
       "name": "@react-login-page/page4",
-      "downloads": 1216
+      "downloads": 1226
     },
     {
       "name": "@icongo/bts",
-      "downloads": 1197
+      "downloads": 1201
     },
     {
       "name": "@kkt/doc",
-      "downloads": 1186
+      "downloads": 1190
     },
     {
       "name": "@kkt/plugin-pro-utils",
-      "downloads": 1164
+      "downloads": 1165
     },
     {
       "name": "@uimjs/metro-config",
-      "downloads": 1164
+      "downloads": 1154
     },
     {
       "name": "@uiw/codepen-require-polyfill",
-      "downloads": 1141
+      "downloads": 1144
     },
     {
       "name": "eslint-config-uiw-admin",
-      "downloads": 1141
+      "downloads": 1140
     },
     {
       "name": "@uiw/babel-plugin-add-import-extension",
-      "downloads": 1098
+      "downloads": 1131
     },
     {
       "name": "@antdp/fuzzy-query",
       "downloads": 1047
     },
     {
-      "name": "@validator.tool/hook",
-      "downloads": 1027
-    },
-    {
-      "name": "kktp",
-      "downloads": 1020
+      "name": "@kkt/plugin-pro-config",
+      "downloads": 1032
     },
     {
       "name": "@kkt/plugin-pro-rematch",
-      "downloads": 993
+      "downloads": 1029
     },
     {
-      "name": "@kkt/plugin-pro-config",
-      "downloads": 987
+      "name": "kktp",
+      "downloads": 1027
+    },
+    {
+      "name": "@validator.tool/hook",
+      "downloads": 1023
     },
     {
       "name": "@kkt/plugin-pro-router",
-      "downloads": 975
+      "downloads": 1013
     },
     {
       "name": "@kkt/plugin-pro-entry",
-      "downloads": 955
+      "downloads": 988
     },
     {
       "name": "@kkt/react-ssr-enhanced",
-      "downloads": 932
+      "downloads": 938
     },
     {
       "name": "@uiw/react-baidu-map-canvas-layer",
-      "downloads": 903
+      "downloads": 909
     },
     {
       "name": "@kkt/loader-stylus",
-      "downloads": 872
+      "downloads": 873
     },
     {
       "name": "@react-login-page/page7",
-      "downloads": 862
+      "downloads": 867
     },
     {
       "name": "react-shields.io",
-      "downloads": 858
+      "downloads": 859
     },
     {
       "name": "@kkt/loader-scss",
-      "downloads": 841
+      "downloads": 844
     },
     {
       "name": "@react-login-page/page5",
-      "downloads": 826
+      "downloads": 828
     },
     {
       "name": "@react-login-page/page8",
-      "downloads": 789
+      "downloads": 798
     },
     {
       "name": "create-kkt",
-      "downloads": 761
+      "downloads": 769
     },
     {
       "name": "@react-login-page/page10",
-      "downloads": 749
+      "downloads": 758
     },
     {
       "name": "@uiw/react-csv-reader",
-      "downloads": 728
+      "downloads": 736
     },
     {
       "name": "@react-login-page/page11",
-      "downloads": 710
+      "downloads": 712
     },
     {
       "name": "copy-markdown-image-webpack-plugin",
-      "downloads": 657
-    },
-    {
-      "name": "@kkt/plugin-less",
-      "downloads": 650
-    },
-    {
-      "name": "@wcj/date",
-      "downloads": 647
-    },
-    {
-      "name": "@kkt/loader-raw",
-      "downloads": 647
+      "downloads": 660
     },
     {
       "name": "@kkt/pro",
-      "downloads": 628
+      "downloads": 657
+    },
+    {
+      "name": "@wcj/date",
+      "downloads": 653
+    },
+    {
+      "name": "@kkt/plugin-less",
+      "downloads": 651
+    },
+    {
+      "name": "@kkt/loader-raw",
+      "downloads": 650
     },
     {
       "name": "@uiw/react-native-amap-geolocation",
-      "downloads": 625
+      "downloads": 629
     },
     {
       "name": "url-replace-loader",
-      "downloads": 616
+      "downloads": 618
     },
     {
       "name": "path-templater",
-      "downloads": 596
+      "downloads": 597
     },
     {
       "name": "grunt-dist",
-      "downloads": 581
-    },
-    {
-      "name": "@uiw/react-run-web",
-      "downloads": 572
-    },
-    {
-      "name": "@kkt/plugin-bundle",
-      "downloads": 570
-    },
-    {
-      "name": "sgo",
-      "downloads": 563
+      "downloads": 594
     },
     {
       "name": "jslite",
-      "downloads": 556
+      "downloads": 583
+    },
+    {
+      "name": "@uiw/react-run-web",
+      "downloads": 576
+    },
+    {
+      "name": "@kkt/plugin-bundle",
+      "downloads": 573
+    },
+    {
+      "name": "sgo",
+      "downloads": 562
     },
     {
       "name": "create-kktp",
@@ -2098,43 +2100,43 @@
     },
     {
       "name": "react-native-baidu-map-wabg",
-      "downloads": 532
+      "downloads": 534
     },
     {
       "name": "@kkt/plugin-pro-access",
-      "downloads": 526
+      "downloads": 527
     },
     {
       "name": "@province-city-china/district-code",
-      "downloads": 512
+      "downloads": 516
     },
     {
       "name": "@uiw/react-clock",
-      "downloads": 508
-    },
-    {
-      "name": "@icongo/ic",
-      "downloads": 502
+      "downloads": 511
     },
     {
       "name": "@icongo/si",
-      "downloads": 501
+      "downloads": 505
+    },
+    {
+      "name": "@icongo/ic",
+      "downloads": 503
     },
     {
       "name": "stylus-px2rem",
-      "downloads": 500
-    },
-    {
-      "name": "@wcj/code-image",
-      "downloads": 486
+      "downloads": 499
     },
     {
       "name": "etn",
-      "downloads": 486
+      "downloads": 489
+    },
+    {
+      "name": "@wcj/code-image",
+      "downloads": 485
     },
     {
       "name": "@uiw/react-native-image-picker",
-      "downloads": 484
+      "downloads": 485
     },
     {
       "name": "@province-city-china/country",
@@ -2142,15 +2144,15 @@
     },
     {
       "name": "@province-city-china/utils",
-      "downloads": 456
+      "downloads": 465
     },
     {
       "name": "@icongo/sti",
-      "downloads": 449
+      "downloads": 450
     },
     {
       "name": "@icongo/fd",
-      "downloads": 442
+      "downloads": 444
     },
     {
       "name": "@icongo/fc",
@@ -2158,15 +2160,15 @@
     },
     {
       "name": "@icongo/md",
-      "downloads": 436
+      "downloads": 437
     },
     {
       "name": "react-native-uiwjs-alipay",
-      "downloads": 425
+      "downloads": 426
     },
     {
       "name": "@province-city-china/data",
-      "downloads": 424
+      "downloads": 426
     },
     {
       "name": "@province-city-china/town",
@@ -2174,11 +2176,11 @@
     },
     {
       "name": "directory-tree-md",
-      "downloads": 411
+      "downloads": 415
     },
     {
       "name": "@icongo/lg",
-      "downloads": 395
+      "downloads": 396
     },
     {
       "name": "@uiw/react-stackblitz",
@@ -2186,43 +2188,43 @@
     },
     {
       "name": "reader-stat",
-      "downloads": 388
+      "downloads": 390
     },
     {
       "name": "@wcj/rollup-plugin-less",
-      "downloads": 379
+      "downloads": 381
     },
     {
       "name": "@uivjs/vue-github-corners",
-      "downloads": 377
+      "downloads": 375
     },
     {
       "name": "@icongo/vl",
-      "downloads": 368
+      "downloads": 369
+    },
+    {
+      "name": "babel-preset-kkt",
+      "downloads": 365
     },
     {
       "name": "create-antdp",
       "downloads": 365
     },
     {
-      "name": "babel-preset-kkt",
+      "name": "@wabg/node-seaweedfs",
       "downloads": 363
     },
     {
-      "name": "@wabg/node-seaweedfs",
-      "downloads": 361
-    },
-    {
       "name": "@icongo/sn",
-      "downloads": 359
+      "downloads": 362
     },
     {
       "name": "icongo",
-      "downloads": 354
+      "downloads": 356
     },
     {
       "name": "directory-trees-webpack-plugin",
-      "downloads": 343
+      "downloads": 350
     },
     {
       "name": "@icongo/bi",
@@ -2230,82 +2232,82 @@
     },
     {
       "name": "@icongo/scwi",
-      "downloads": 333
+      "downloads": 334
     },
     {
       "name": "@icongo/di",
-      "downloads": 318
-    },
-    {
-      "name": "@icongo/iu",
-      "downloads": 315
+      "downloads": 319
     },
     {
       "name": "create-kkt-ssr",
-      "downloads": 309
+      "downloads": 317
+    },
+    {
+      "name": "@icongo/iu",
+      "downloads": 316
     },
     {
       "name": "@icongo/go",
-      "downloads": 302
+      "downloads": 303
     },
     {
       "name": "@icongo/ti",
-      "downloads": 299
+      "downloads": 300
+    },
+    {
+      "name": "@icongo/ad",
+      "downloads": 295
     },
     {
       "name": "@uivjs/admin-base-layout",
       "downloads": 295
     },
     {
-      "name": "@icongo/ad",
-      "downloads": 294
-    },
-    {
       "name": "@uivjs/admin-login",
-      "downloads": 282
-    },
-    {
-      "name": "@uivjs/vue-layout",
-      "downloads": 273
+      "downloads": 284
     },
     {
       "name": "merge-array-object",
-      "downloads": 271
+      "downloads": 278
     },
     {
       "name": "@icongo/gr",
-      "downloads": 271
+      "downloads": 274
+    },
+    {
+      "name": "@uivjs/vue-layout",
+      "downloads": 272
     },
     {
       "name": "@icongo/fi",
-      "downloads": 267
+      "downloads": 269
     },
     {
       "name": "@kkt/request",
       "downloads": 266
     },
     {
+      "name": "@wcj/chinese-numerals",
+      "downloads": 264
+    },
+    {
       "name": "@icongo/fg",
-      "downloads": 261
+      "downloads": 262
     },
     {
       "name": "@icongo/io",
-      "downloads": 259
-    },
-    {
-      "name": "@wcj/chinese-numerals",
-      "downloads": 258
+      "downloads": 260
     },
     {
       "name": "@icongo/mp",
       "downloads": 257
     },
     {
-      "name": "@icongo/uiw",
-      "downloads": 256
+      "name": "@icongo/hi",
+      "downloads": 255
     },
     {
-      "name": "@icongo/hi",
+      "name": "@icongo/uiw",
       "downloads": 254
     },
     {
@@ -2313,28 +2315,28 @@
       "downloads": 253
     },
     {
-      "name": "@icongo/sk",
-      "downloads": 252
+      "name": "@icongo/lu",
+      "downloads": 253
     },
     {
-      "name": "@icongo/lu",
-      "downloads": 251
+      "name": "@icongo/sk",
+      "downloads": 253
     },
     {
       "name": "@uiw/react-domain-verify",
-      "downloads": 250
+      "downloads": 252
     },
     {
       "name": "@icongo/ik",
-      "downloads": 247
+      "downloads": 248
     },
     {
       "name": "@icongo/mc",
-      "downloads": 247
+      "downloads": 248
     },
     {
       "name": "@icongo/vv",
-      "downloads": 239
+      "downloads": 240
     },
     {
       "name": "websocketjs",
@@ -2346,59 +2348,59 @@
     },
     {
       "name": "@icongo/ct",
-      "downloads": 233
+      "downloads": 234
     },
     {
       "name": "@icongo/bl",
-      "downloads": 232
+      "downloads": 233
     },
     {
       "name": "@icongo/mi",
-      "downloads": 231
+      "downloads": 233
     },
     {
       "name": "@icongo/ae",
-      "downloads": 230
-    },
-    {
-      "name": "@uiw/react-xml-reader",
-      "downloads": 223
+      "downloads": 231
     },
     {
       "name": "@icongo/br",
-      "downloads": 223
+      "downloads": 227
     },
     {
       "name": "@icongo/ci",
-      "downloads": 223
+      "downloads": 224
     },
     {
-      "name": "@icongo/im",
-      "downloads": 214
+      "name": "@uiw/react-xml-reader",
+      "downloads": 221
     },
     {
       "name": "raw-extend-loader",
-      "downloads": 213
+      "downloads": 215
+    },
+    {
+      "name": "@icongo/im",
+      "downloads": 215
     },
     {
       "name": "@uiw/react-native-transport-location",
-      "downloads": 213
+      "downloads": 214
     },
     {
       "name": "@icongo/tn",
-      "downloads": 209
+      "downloads": 211
     },
     {
       "name": "@icongo/gy",
-      "downloads": 207
+      "downloads": 210
     },
     {
       "name": "@icongo/ev",
-      "downloads": 204
+      "downloads": 205
     },
     {
       "name": "@icongo/pbi",
-      "downloads": 202
+      "downloads": 203
     },
     {
       "name": "@wabg/node-setup",
@@ -2406,39 +2408,39 @@
     },
     {
       "name": "@icongo/wl",
-      "downloads": 198
-    },
-    {
-      "name": "@kkt/webpack-eslint-rules",
-      "downloads": 192
+      "downloads": 199
     },
     {
       "name": "@icongo/ir",
-      "downloads": 192
+      "downloads": 195
+    },
+    {
+      "name": "@kkt/webpack-eslint-rules",
+      "downloads": 193
     },
     {
       "name": "@icongo/sl",
-      "downloads": 191
+      "downloads": 192
     },
     {
       "name": "@icongo/fp",
       "downloads": 186
     },
     {
+      "name": "@wcjiang/whereis",
+      "downloads": 181
+    },
+    {
       "name": "gitke",
       "downloads": 180
     },
     {
-      "name": "@wcjiang/whereis",
-      "downloads": 177
-    },
-    {
       "name": "@kkt/config-loader",
-      "downloads": 172
+      "downloads": 173
     },
     {
       "name": "@icongo/mn",
-      "downloads": 170
+      "downloads": 171
     }
   ]
 }
