@@ -1,6 +1,5 @@
 {
   "dailyDownloads": {
-    "2024-08-06": 695268,
     "2024-08-07": 672609,
     "2024-08-08": 694016,
     "2024-08-09": 606625,
@@ -363,10 +362,11 @@
     "2025-08-01": 1445940,
     "2025-08-02": 532732,
     "2025-08-03": 522458,
-    "2025-08-04": 1545123
+    "2025-08-04": 1545123,
+    "2025-08-05": 235
   },
   "weeklyDownloads": {
-    "2024-W32": 2967467,
+    "2024-W32": 2272199,
     "2024-W33": 3503237,
     "2024-W34": 3700239,
     "2024-W35": 4012660,
@@ -418,10 +418,10 @@
     "2025-W29": 8292256,
     "2025-W30": 8896598,
     "2025-W31": 8944678,
-    "2025-W32": 1545123
+    "2025-W32": 1545358
   },
   "monthlyDownloads": {
-    "2024-8": 13992153,
+    "2024-8": 13296885,
     "2024-9": 17428951,
     "2024-10": 19466187,
     "2024-11": 18499106,
@@ -433,14 +433,14 @@
     "2025-5": 31246436,
     "2025-6": 33576864,
     "2025-7": 38647146,
-    "2025-8": 4046253
+    "2025-8": 4046488
   },
   "yearlyDownloads": {
     "2023": 17457615,
     "2024": 181966628,
-    "2025": 204604645
+    "2025": 204604880
   },
-  "totalDownloads": 291189710,
+  "totalDownloads": 290494677,
   "topPackages": [
     {
       "name": "@uiw/react-codemirror",
@@ -1104,7 +1104,7 @@
     },
     {
       "name": "@icongo/fa",
-      "downloads": 20426
+      "downloads": 20423
     },
     {
       "name": "@uiw/react-icon",
@@ -1547,12 +1547,12 @@
       "downloads": 8834
     },
     {
-      "name": "@icongo/vsc",
-      "downloads": 8592
+      "name": "@icongo/pp",
+      "downloads": 8658
     },
     {
-      "name": "@icongo/pp",
-      "downloads": 8442
+      "name": "@icongo/vsc",
+      "downloads": 8592
     },
     {
       "name": "@uiw/react-tabs-draggable",
@@ -1616,7 +1616,7 @@
     },
     {
       "name": "@icongo/ii",
-      "downloads": 4773
+      "downloads": 4772
     },
     {
       "name": "@kkt/resolve-fallback",
@@ -1872,7 +1872,7 @@
     },
     {
       "name": "@icongo/ei",
-      "downloads": 1355
+      "downloads": 1353
     },
     {
       "name": "@kkt/loader-less",
@@ -2068,7 +2068,7 @@
     },
     {
       "name": "path-templater",
-      "downloads": 576
+      "downloads": 577
     },
     {
       "name": "@kkt/loader-scss",
@@ -2107,10 +2107,6 @@
       "downloads": 495
     },
     {
-      "name": "stylus-px2rem",
-      "downloads": 488
-    },
-    {
       "name": "etn",
       "downloads": 476
     },
@@ -2124,7 +2120,7 @@
     },
     {
       "name": "@icongo/ic",
-      "downloads": 464
+      "downloads": 465
     },
     {
       "name": "@province-city-china/utils",
@@ -2132,15 +2128,19 @@
     },
     {
       "name": "@uiw/react-native-image-picker",
-      "downloads": 441
+      "downloads": 439
+    },
+    {
+      "name": "@province-city-china/country",
+      "downloads": 434
     },
     {
       "name": "@icongo/md",
       "downloads": 434
     },
     {
-      "name": "@province-city-china/country",
-      "downloads": 434
+      "name": "stylus-px2rem",
+      "downloads": 428
     },
     {
       "name": "@icongo/fc",
@@ -2148,7 +2148,7 @@
     },
     {
       "name": "@icongo/sti",
-      "downloads": 419
+      "downloads": 420
     },
     {
       "name": "@kkt/plugin-pro-access",
@@ -2160,15 +2160,15 @@
     },
     {
       "name": "@icongo/fd",
-      "downloads": 405
+      "downloads": 404
+    },
+    {
+      "name": "@kkt/plugin-bundle",
+      "downloads": 395
     },
     {
       "name": "@province-city-china/data",
       "downloads": 392
-    },
-    {
-      "name": "@kkt/plugin-bundle",
-      "downloads": 390
     },
     {
       "name": "@province-city-china/town",
@@ -2191,12 +2191,12 @@
       "downloads": 352
     },
     {
-      "name": "@uivjs/vue-github-corners",
+      "name": "@icongo/vl",
       "downloads": 348
     },
     {
-      "name": "@icongo/vl",
-      "downloads": 346
+      "name": "@uivjs/vue-github-corners",
+      "downloads": 342
     },
     {
       "name": "@icongo/sn",
@@ -2212,7 +2212,7 @@
     },
     {
       "name": "@wabg/node-seaweedfs",
-      "downloads": 319
+      "downloads": 318
     },
     {
       "name": "@wcj/rollup-plugin-less",
@@ -2240,7 +2240,7 @@
     },
     {
       "name": "@icongo/bi",
-      "downloads": 278
+      "downloads": 279
     },
     {
       "name": "@icongo/ti",
@@ -2348,7 +2348,7 @@
     },
     {
       "name": "@icongo/br",
-      "downloads": 209
+      "downloads": 210
     },
     {
       "name": "@icongo/mi",
@@ -2368,7 +2368,7 @@
     },
     {
       "name": "@icongo/bl",
-      "downloads": 198
+      "downloads": 199
     },
     {
       "name": "@icongo/gy",
