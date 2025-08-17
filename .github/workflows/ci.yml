@@ -6,8 +6,8 @@ on:
     tags:
       - v*
   schedule:
-    # 每天 5:30 UTC 触发工作流程
-    - cron:  '30 5 * * *'
+    # 每隔 7 天执行
+    - cron: "0 0 */7 * *"
 
 jobs:
   build-deploy:
